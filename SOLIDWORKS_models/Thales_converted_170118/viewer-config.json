@@ -1,0 +1,12 @@
+{
+	"name": "nomad-3d-viewer",
+	"localEndpoint": "tcp://gamma3d:7000",
+	"nomadEndpoint": "tcp://gamma3d:7000",
+	"modelPath": "/users/ics/nomad3d/SOLIDWORKS_models/Thales_converted_170118/Exp.731-49-00-000_Ass_Zone_Thales_+_table_+_spectro_secondaire_schema+group-A2+group-A4+group-A6+mediane+walls.xml",
+	"instrumentPosition": {
+		"x": 0,
+		"y": 0,
+		"z": 60
+	},
+	"minDeltaTime": 10
+}

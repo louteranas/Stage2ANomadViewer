@@ -1,0 +1,2213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Nomad3DXML state="edited">
+    <RootComponent fileName="SCI-11-06-16-ILL-CHANGEUR" name="SCI-11-06-16-ILL-CHANGEUR" wall="False">
+        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+            <AxisValue>0.0</AxisValue>
+            <Transform>
+                <Rotation>1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0</Rotation>
+                <Translation>0.0 0.0 0.0</Translation>
+                <Scale>1.0</Scale>
+            </Transform>
+        </ConfigParams>
+        <Material>
+            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+            <Shininess>100.0</Shininess>
+        </Material>
+        <Axis method="Computed" type="Fixed">
+            <Direction>0.0 0.0 0.0</Direction>
+            <Position>0.0 0.0 0.0</Position>
+            <MinValue>-Infinity</MinValue>
+            <MaxValue>Infinity</MaxValue>
+        </Axis>
+        <Component fileName="SCI-RT200_DURCI_SANS PT 0" name="SCI-RT200_DURCI_SANS PT 0-1" wall="False">
+            <ConfigParams configuration="Défaut" fixed="False" visible="True">
+                <AxisValue>0.0</AxisValue>
+                <Transform>
+                    <Rotation>1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0</Rotation>
+                    <Translation>0.0 0.0 0.0</Translation>
+                    <Scale>1.0</Scale>
+                </Transform>
+            </ConfigParams>
+            <Material>
+                <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                <Shininess>100.0</Shininess>
+            </Material>
+            <Axis method="Computed" type="Fixed">
+                <Direction>0.0 0.0 0.0</Direction>
+                <Position>0.0 0.0 0.0</Position>
+                <MinValue>-Infinity</MinValue>
+                <MaxValue>Infinity</MaxValue>
+            </Axis>
+            <Component fileName="SCI-RT200_10_03-B" name="SCI-RT200_10_03-B-1" wall="False">
+                <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                    <AxisValue>0.0</AxisValue>
+                    <Transform>
+                        <Rotation>-3.46944695195361E-17 1.0 1.38777878078145E-16 -1.11022302462516E-16 1.38777878078145E-16 -1.0 -1.0 -3.46944695195361E-17 1.11022302462516E-16</Rotation>
+                        <Translation>-111.0 31.5 -73.9999999999999</Translation>
+                        <Scale>1.0</Scale>
+                    </Transform>
+                </ConfigParams>
+                <Material>
+                    <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                    <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                    <Shininess>100.0</Shininess>
+                </Material>
+                <Axis method="Computed" type="None">
+                    <Direction>0.0 0.0 0.0</Direction>
+                    <Position>0.0 0.0 0.0</Position>
+                    <MinValue>-Infinity</MinValue>
+                    <MaxValue>Infinity</MaxValue>
+                </Axis>
+            </Component>
+            <Component fileName="SCI-Embase 5 contacts" name="SCI-Embase 5 contacts-1" wall="False">
+                <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                    <AxisValue>0.0</AxisValue>
+                    <Transform>
+                        <Rotation>-1.0 -8.32667268468867E-17 2.73691106313441E-48 -8.32667268468867E-17 1.0 -1.11022302462516E-16 9.24446373305873E-33 -1.11022302462516E-16 -1.0</Rotation>
+                        <Translation>-0.99999999999989 23.9999999999999 141.7</Translation>
+                        <Scale>1.0</Scale>
+                    </Transform>
+                </ConfigParams>
+                <Material>
+                    <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                    <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                    <Shininess>100.0</Shininess>
+                </Material>
+                <Axis method="Computed" type="None">
+                    <Direction>0.0 0.0 0.0</Direction>
+                    <Position>0.0 0.0 0.0</Position>
+                    <MinValue>-Infinity</MinValue>
+                    <MaxValue>Infinity</MaxValue>
+                </Axis>
+            </Component>
+            <Component fileName="SCI-R11X-J10-7N" name="SCI-R11X-J10-7N-1" wall="False">
+                <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                    <AxisValue>0.0</AxisValue>
+                    <Transform>
+                        <Rotation>0.809498687743754 0.587121686314805 -5.55111512312578E-17 -1.26079317435127E-16 7.92849112358391E-17 -1.0 -0.587121686314805 0.809498687743754 1.38204933065223E-16</Rotation>
+                        <Translation>-81.0 32.5 -79.15</Translation>
+                        <Scale>1.0</Scale>
+                    </Transform>
+                </ConfigParams>
+                <Material>
+                    <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                    <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                    <Shininess>100.0</Shininess>
+                </Material>
+                <Axis method="Computed" type="None">
+                    <Direction>0.0 0.0 0.0</Direction>
+                    <Position>0.0 0.0 0.0</Position>
+                    <MinValue>-Infinity</MinValue>
+                    <MaxValue>Infinity</MaxValue>
+                </Axis>
+            </Component>
+            <Component fileName="SCI-500077_MOLETTE_Ï56xÏ6.35" name="SCI-500077_MOLETTE_Ï56xÏ6.35-1" wall="False">
+                <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                    <AxisValue>0.0</AxisValue>
+                    <Transform>
+                        <Rotation>0.692812538887389 0.721117733771962 -1.11022302462516E-16 0.721117733771962 -0.692812538887389 3.81639164714898E-16 1.98289126335652E-16 -3.44464549794905E-16 -1.0</Rotation>
+                        <Translation>-81.0 32.5 169.6</Translation>
+                        <Scale>1.0</Scale>
+                    </Transform>
+                </ConfigParams>
+                <Material>
+                    <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                    <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                    <Shininess>100.0</Shininess>
+                </Material>
+                <Axis method="Computed" type="None">
+                    <Direction>0.0 0.0 0.0</Direction>
+                    <Position>0.0 0.0 0.0</Position>
+                    <MinValue>-Infinity</MinValue>
+                    <MaxValue>Infinity</MaxValue>
+                </Axis>
+            </Component>
+            <Component fileName="SCI-Embase 6 contacts" name="SCI-Embase 6 contacts-1" wall="False">
+                <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                    <AxisValue>0.0</AxisValue>
+                    <Transform>
+                        <Rotation>-1.5115818620099E-16 -1.0 3.05311331771918E-16 -1.74088848660737E-16 -3.05311331771918E-16 -1.0 1.0 -1.5115818620099E-16 -1.74088848660737E-16</Rotation>
+                        <Translation>-144.2 46.5000000000001 -58.9999999999999</Translation>
+                        <Scale>1.0</Scale>
+                    </Transform>
+                </ConfigParams>
+                <Material>
+                    <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                    <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                    <Shininess>100.0</Shininess>
+                </Material>
+                <Axis method="Computed" type="None">
+                    <Direction>0.0 0.0 0.0</Direction>
+                    <Position>0.0 0.0 0.0</Position>
+                    <MinValue>-Infinity</MinValue>
+                    <MaxValue>Infinity</MaxValue>
+                </Axis>
+            </Component>
+            <Component fileName="SCI-RT200_11_02-B_Default" name="SCI-RT200_11_02-B_Default-1" wall="False">
+                <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                    <AxisValue>0.0</AxisValue>
+                    <Transform>
+                        <Rotation>1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0</Rotation>
+                        <Translation>9.0205620750794E-14 23.0 100.0</Translation>
+                        <Scale>1.0</Scale>
+                    </Transform>
+                </ConfigParams>
+                <Material>
+                    <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                    <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                    <Shininess>100.0</Shininess>
+                </Material>
+                <Axis method="Computed" type="None">
+                    <Direction>0.0 0.0 0.0</Direction>
+                    <Position>0.0 0.0 0.0</Position>
+                    <MinValue>-Infinity</MinValue>
+                    <MaxValue>Infinity</MaxValue>
+                </Axis>
+            </Component>
+            <Component fileName="SCI-RT200_10_02-A_CODEUR AMCI" name="SCI-RT200_10_02-A_CODEUR AMCI-1" wall="False">
+                <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                    <AxisValue>0.0</AxisValue>
+                    <Transform>
+                        <Rotation>-1.0 -8.21073318940323E-48 1.66533453693774E-16 2.77333911991762E-32 1.0 1.66533453693774E-16 -1.66533453693774E-16 1.66533453693774E-16 -1.0</Rotation>
+                        <Translation>-52.0 32.0 -92.0</Translation>
+                        <Scale>1.0</Scale>
+                    </Transform>
+                </ConfigParams>
+                <Material>
+                    <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                    <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                    <Shininess>100.0</Shininess>
+                </Material>
+                <Axis method="Computed" type="None">
+                    <Direction>0.0 0.0 0.0</Direction>
+                    <Position>0.0 0.0 0.0</Position>
+                    <MinValue>-Infinity</MinValue>
+                    <MaxValue>Infinity</MaxValue>
+                </Axis>
+            </Component>
+            <Component fileName="SCI-RT200_00_01-B" name="SCI-RT200_00_01-B-1" wall="False">
+                <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                    <AxisValue>0.0</AxisValue>
+                    <Transform>
+                        <Rotation>1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0</Rotation>
+                        <Translation>0.0 0.0 0.0</Translation>
+                        <Scale>1.0</Scale>
+                    </Transform>
+                </ConfigParams>
+                <Material>
+                    <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                    <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                    <Shininess>100.0</Shininess>
+                </Material>
+                <Axis method="Computed" type="None">
+                    <Direction>0.0 0.0 0.0</Direction>
+                    <Position>0.0 0.0 0.0</Position>
+                    <MinValue>-Infinity</MinValue>
+                    <MaxValue>Infinity</MaxValue>
+                </Axis>
+            </Component>
+            <Component fileName="SCI-VSS 57-E radial_Default" name="SCI-VSS 57-E radial_Default-1" wall="False">
+                <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                    <AxisValue>0.0</AxisValue>
+                    <Transform>
+                        <Rotation>1.0 6.93889390390723E-18 1.11022302462516E-16 6.9388939039072E-18 -1.0 2.77555756156289E-16 1.11022302462516E-16 -2.77555756156289E-16 -1.0</Rotation>
+                        <Translation>-81.0 32.5 95.0</Translation>
+                        <Scale>1.0</Scale>
+                    </Transform>
+                </ConfigParams>
+                <Material>
+                    <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                    <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                    <Shininess>100.0</Shininess>
+                </Material>
+                <Axis method="Computed" type="None">
+                    <Direction>0.0 0.0 0.0</Direction>
+                    <Position>0.0 0.0 0.0</Position>
+                    <MinValue>-Infinity</MinValue>
+                    <MaxValue>Infinity</MaxValue>
+                </Axis>
+            </Component>
+            <Component fileName="SCI-Embase 4 contacts" name="SCI-Embase 4 contacts-1" wall="False">
+                <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                    <AxisValue>0.0</AxisValue>
+                    <Transform>
+                        <Rotation>-1.0 1.73472347597681E-16 -3.46944695195361E-17 1.73472347597681E-16 1.0 -1.31730563956989E-17 3.46944695195361E-17 -1.31730563956989E-17 -1.0</Rotation>
+                        <Translation>31.0000000000001 24.0 141.7</Translation>
+                        <Scale>1.0</Scale>
+                    </Transform>
+                </ConfigParams>
+                <Material>
+                    <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                    <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                    <Shininess>100.0</Shininess>
+                </Material>
+                <Axis method="Computed" type="None">
+                    <Direction>0.0 0.0 0.0</Direction>
+                    <Position>0.0 0.0 0.0</Position>
+                    <MinValue>-Infinity</MinValue>
+                    <MaxValue>Infinity</MaxValue>
+                </Axis>
+            </Component>
+            <Component fileName="SCI-RT200_00_02-A" name="SCI-RT200_00_02-A-1" wall="False">
+                <ConfigParams configuration="Défaut" fixed="False" visible="True">
+                    <AxisValue>0.0</AxisValue>
+                    <Transform>
+                        <Rotation>0.695925863348848 0.0 -0.718113634964663 0.0 1.0 0.0 0.718113634964663 0.0 0.695925863348848</Rotation>
+                        <Translation>0.0 0.0 0.0</Translation>
+                        <Scale>1.0</Scale>
+                    </Transform>
+                </ConfigParams>
+                <Material>
+                    <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                    <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                    <Shininess>100.0</Shininess>
+                </Material>
+                <Axis method="Computed" type="None">
+                    <Direction>0.0 0.0 0.0</Direction>
+                    <Position>0.0 0.0 0.0</Position>
+                    <MinValue>-Infinity</MinValue>
+                    <MaxValue>Infinity</MaxValue>
+                </Axis>
+            </Component>
+            <Component fileName="SCI-RT200_00_03-A" name="SCI-RT200_00_03-A-1" wall="False">
+                <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                    <AxisValue>0.0</AxisValue>
+                    <Transform>
+                        <Rotation>1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0</Rotation>
+                        <Translation>-2.42861286636753E-14 -12.5 4.48835493947277E-16</Translation>
+                        <Scale>1.0</Scale>
+                    </Transform>
+                </ConfigParams>
+                <Material>
+                    <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                    <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                    <Shininess>100.0</Shininess>
+                </Material>
+                <Axis method="Computed" type="None">
+                    <Direction>0.0 0.0 0.0</Direction>
+                    <Position>0.0 0.0 0.0</Position>
+                    <MinValue>-Infinity</MinValue>
+                    <MaxValue>Infinity</MaxValue>
+                </Axis>
+            </Component>
+        </Component>
+        <Component fileName="NOMAD_3D_INSERTED" name="NOMAD_3D_REGROUPED-1" wall="False">
+            <ConfigParams configuration="Défaut" fixed="False" visible="True">
+                <AxisValue>0.0</AxisValue>
+                <Transform>
+                    <Rotation>1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0</Rotation>
+                    <Translation>0.0 0.0 0.0</Translation>
+                    <Scale>1.0</Scale>
+                </Transform>
+            </ConfigParams>
+            <Material>
+                <Diffuse>1.0 1.0 1.0 1.0</Diffuse>
+                <Specular>0.0 0.0 0.0 0.0</Specular>
+                <Shininess>250.0</Shininess>
+            </Material>
+            <Axis method="Added" type="Rotation">
+                <Direction>0.0 1.0 0.0</Direction>
+                <Position>0.0 0.0 0.0</Position>
+                <MinValue>-90.0</MinValue>
+                <MaxValue>90.0</MaxValue>
+            </Axis>
+            <Component fileName="NOMAD_3D_INSERTED" name="NOMAD_3D_INSERTED-3" wall="False">
+                <ConfigParams configuration="Défaut" fixed="False" visible="True">
+                    <AxisValue>0.0</AxisValue>
+                    <Transform>
+                        <Rotation>1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0</Rotation>
+                        <Translation>0.0 0.0 0.0</Translation>
+                        <Scale>1.0</Scale>
+                    </Transform>
+                </ConfigParams>
+                <Material>
+                    <Diffuse>1.0 1.0 1.0 1.0</Diffuse>
+                    <Specular>0.0 0.0 0.0 0.0</Specular>
+                    <Shininess>250.0</Shininess>
+                </Material>
+                <Axis method="Added" type="Translation">
+                    <Direction>0.0 1.0 0.0</Direction>
+                    <Position>0.0 -7.00000002374838 0.0</Position>
+                    <MinValue>-0.01</MinValue>
+                    <MaxValue>90.0</MaxValue>
+                </Axis>
+                <Component fileName="SCI-TT170-DURI_SANS PT O" name="SCI-TT170-DURI_SANS PT O-2" wall="False">
+                    <ConfigParams configuration="Défaut" fixed="False" visible="True">
+                        <AxisValue>0.0</AxisValue>
+                        <Transform>
+                            <Rotation>0.201290802450155 1.394475659787E-15 -0.979531527235838 -4.5344906307776E-16 1.0 1.33043245446865E-15 0.979531527235838 1.76363836914494E-16 0.201290802450155</Rotation>
+                            <Translation>0.97428578959023 139.499999999999 0.200212819035914</Translation>
+                            <Scale>1.0</Scale>
+                        </Transform>
+                    </ConfigParams>
+                    <Material>
+                        <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                        <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                        <Shininess>100.0</Shininess>
+                    </Material>
+                    <Axis method="Computed" type="Fixed">
+                        <Direction>0.0 0.0 0.0</Direction>
+                        <Position>0.0 0.0 0.0</Position>
+                        <MinValue>-Infinity</MinValue>
+                        <MaxValue>Infinity</MaxValue>
+                    </Axis>
+                    <Component fileName="SCI-TT170-10-09-A" name="SCI-TT170-10-09-A-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>0.201290802450155 1.394475659787E-15 -0.979531527235838 -4.5344906307776E-16 1.0 1.33043245446865E-15 0.979531527235838 1.76363836914494E-16 0.201290802450155</Rotation>
+                                <Translation>144.965420293258 164.499999999999 29.7899607792087</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-Embase 6 contacts" name="SCI-Embase 6 contacts-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>-0.979531527235838 -5.37186319917668E-16 -0.201290802450155 -2.0310205633343E-15 1.0 7.21474770161042E-15 0.201290802450155 7.47589859376604E-15 -0.979531527235838</Rotation>
+                                <Translation>-118.381616968891 149.499999999999 14.6711656801284</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-R11X-J10-7N" name="SCI-R11X-J10-7N-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>0.164530218882504 0.576104936126404 -0.800645308264069 -0.979531527235838 -2.94129656260727E-16 -0.201290802450155 -0.115964624888379 0.817375741364271 0.564312947932001</Rotation>
+                                <Translation>-125.532210952918 164.499999999999 -25.7964943174015</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-TT170-10-10-A" name="SCI-TT170-10-10-A-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>-0.201290802450155 -1.36213256861909E-15 0.979531527235838 -4.93256173901601E-16 1.0 1.28923327371053E-15 -0.979531527235838 -2.23649173129708E-16 -0.201290802450155</Rotation>
+                                <Translation>-101.876524570173 164.499999999999 -20.9353214382302</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-Vis-Chc-M06-inox_Vis Chc M6-40" name="SCI-Vis-Chc-M06-inox_Vis Chc M6-40-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>0.201290802450155 1.5189288130924E-15 -0.979531527235838 0.979531527235838 1.76363836914494E-16 0.201290802450155 4.78500338174058E-16 -1.0 -1.45233824179521E-15</Rotation>
+                                <Translation>127.576155168148 149.499999999999 -19.7238096125582</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-TT170-10-11-A" name="SCI-TT170-10-11-A-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>0.201290802450155 1.46386459882607E-15 -0.979531527235838 -0.979531527235838 -7.19135822580965E-16 -0.201290802450155 -9.99078690358807E-16 1.0 1.2891460993566E-15</Rotation>
+                                <Translation>121.286828520351 164.499999999999 149.983863668047</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-TT170-07-12-A" name="SCI-TT170-07-12-A-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>-0.979531527235838 -1.76363836914494E-16 -0.201290802450155 -4.5344906307776E-16 1.0 1.33043245446865E-15 0.201290802450155 1.394475659787E-15 -0.979531527235838</Rotation>
+                                <Translation>101.3441838129 140.499999999999 -65.9502487877471</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-Vis-Chc-M06-inox_Vis Chc M6-40" name="SCI-Vis-Chc-M06-inox_Vis Chc M6-40-2" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>0.201290802450155 1.5189288130924E-15 -0.979531527235838 0.979531527235838 1.76363836914494E-16 0.201290802450155 4.78500338174058E-16 -1.0 -1.45233824179521E-15</Rotation>
+                                <Translation>109.459982947634 149.499999999999 68.4340278386672</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-Vis-Chc-M06-inox_Vis Chc M6-40" name="SCI-Vis-Chc-M06-inox_Vis Chc M6-40-3" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>0.201290802450155 1.51448269706921E-15 -0.979531527235838 -0.979531527235838 -3.36825758442348E-16 -0.201290802450155 -6.3478288696934E-16 1.0 1.41568362202971E-15</Rotation>
+                                <Translation>-100.654690677802 149.499999999999 -66.6245665834443</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-TT170-10-14-A" name="SCI-TT170-10-14-A-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>0.201290802450155 1.394475659787E-15 -0.979531527235838 -4.5344906307776E-16 1.0 1.33043245446865E-15 0.979531527235838 1.76363836914494E-16 0.201290802450155</Rotation>
+                                <Translation>164.556050837975 161.999999999999 33.8157768282118</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-Embase 5 contacts" name="SCI-Embase 5 contacts-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>-0.979531527235838 -7.92193222597929E-17 -0.201290802450155 -3.47307527020307E-16 1.0 1.29652893687249E-15 0.201290802450155 1.33990078045107E-15 -0.979531527235838</Rotation>
+                                <Translation>-86.1390996954771 141.499999999999 111.135771001839</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-TT170-00-05-A" name="SCI-TT170-00-05-A-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>0.201290802450155 1.394475659787E-15 -0.979531527235838 -4.5344906307776E-16 1.0 1.33043245446865E-15 0.979531527235838 1.76363836914494E-16 0.201290802450155</Rotation>
+                                <Translation>103.825096149353 164.499999999999 21.3357470763022</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-TT170-10-06-A_Course 200" name="SCI-TT170-10-06-A_Course 200-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>0.201290802450155 1.394475659787E-15 -0.979531527235838 -4.5344906307776E-16 1.0 1.33043245446865E-15 0.979531527235838 1.76363836914494E-16 0.201290802450155</Rotation>
+                                <Translation>0.97428578959023 139.499999999999 0.200212819035914</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-500077_MOLETTE_Ï56xÏ6.35" name="SCI-500077_MOLETTE_Ï56xÏ6.35-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>-1.0585067330465E-15 1.0 1.31943715604829E-15 -0.201290802450155 -1.50549796224951E-15 0.979531527235838 0.979531527235838 7.71250152886949E-16 0.201290802450155</Rotation>
+                                <Translation>20.7868938259532 164.499999999999 129.331427336663</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-Vis-Chc-M06-inox_Vis Chc M6-40" name="SCI-Vis-Chc-M06-inox_Vis Chc M6-40-4" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>0.201290802450155 1.51448269706921E-15 -0.979531527235838 -0.979531527235838 -3.36825758442348E-16 -0.201290802450155 -6.3478288696934E-16 1.0 1.41568362202971E-15</Rotation>
+                                <Translation>-118.770862898316 149.499999999999 21.5332708677811</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-VSS 57-E radial_Default" name="SCI-VSS 57-E radial_Default-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>-4.62864769435531E-16 1.0 1.37625164300766E-15 -0.201290802450155 -1.44125229460171E-15 0.979531527235838 0.979531527235838 1.76363836914494E-16 0.201290802450155</Rotation>
+                                <Translation>93.8599457577467 164.499999999999 144.347721199445</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-TT170-10-07-A" name="SCI-TT170-10-07-A-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>-0.201290802450155 -1.29900247708043E-15 0.979531527235838 4.22060781570413E-16 -1.0 -1.23941444447564E-15 0.979531527235838 1.63939113861203E-16 0.201290802450155</Rotation>
+                                <Translation>-118.986242778436 174.499999999999 62.3248583768159</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-TT170-07-13-A" name="SCI-TT170-07-13-A-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>-0.201290802450155 -1.36213256861909E-15 0.979531527235838 -4.93256173901601E-16 1.0 1.28923327371053E-15 -0.979531527235838 -2.23649173129708E-16 -0.201290802450155</Rotation>
+                                <Translation>-109.71277678806 164.499999999999 -22.5456478578301</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-TT170-10-12-B_inverse" name="SCI-TT170-10-12-B_inverse-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>-0.979531527235838 -2.65741902005686E-16 -0.201290802450155 -5.58988678121568E-16 1.0 1.39999010462516E-15 0.201290802450155 1.48385372487819E-15 -0.979531527235838</Rotation>
+                                <Translation>-83.046140309547 156.499999999999 108.50449712081</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-Embase 4 contacts" name="SCI-Embase 4 contacts-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>-0.979531527235838 -2.65741902005686E-16 -0.201290802450155 -5.58988678121569E-16 1.0 1.39999010462516E-15 0.201290802450155 1.48385372487819E-15 -0.979531527235838</Rotation>
+                                <Translation>-51.8554962422228 141.499999999999 118.180949087594</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="NOMAD_3D_INSERTED" name="NOMAD_3D_INSERTED-2" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="False" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0</Rotation>
+                                <Translation>0.0 0.0 0.0</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>1.0 1.0 1.0 1.0</Diffuse>
+                            <Specular>0.0 0.0 0.0 0.0</Specular>
+                            <Shininess>250.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                        <Component fileName="SCI-TT170-10-04-A" name="SCI-TT170-10-04-A-2" wall="False">
+                            <ConfigParams configuration="Défaut" fixed="False" visible="True">
+                                <AxisValue>0.0</AxisValue>
+                                <Transform>
+                                    <Rotation>0.201290802450155 1.394475659787E-15 -0.979531527235838 -4.5344906307776E-16 1.0 1.33043245446865E-15 0.979531527235838 1.76363836914494E-16 0.201290802450155</Rotation>
+                                    <Translation>-91.3118119130529 159.499999999999 22.0715428811708</Translation>
+                                    <Scale>1.0</Scale>
+                                </Transform>
+                            </ConfigParams>
+                            <Material>
+                                <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                                <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                                <Shininess>100.0</Shininess>
+                            </Material>
+                            <Axis method="Computed" type="Fixed">
+                                <Direction>0.0 0.0 0.0</Direction>
+                                <Position>0.0 0.0 0.0</Position>
+                                <MinValue>-Infinity</MinValue>
+                                <MaxValue>Infinity</MaxValue>
+                            </Axis>
+                        </Component>
+                        <Component fileName="SCI-TT170-10-19-A" name="SCI-TT170-10-19-A-1" wall="False">
+                            <ConfigParams configuration="Défaut" fixed="False" visible="True">
+                                <AxisValue>0.0</AxisValue>
+                                <Transform>
+                                    <Rotation>0.201290802450155 1.394475659787E-15 -0.979531527235838 -4.5344906307776E-16 1.0 1.33043245446865E-15 0.979531527235838 1.76363836914494E-16 0.201290802450155</Rotation>
+                                    <Translation>-3.36102673470506E-15 189.499999999998 1.17310675062932E-13</Translation>
+                                    <Scale>1.0</Scale>
+                                </Transform>
+                            </ConfigParams>
+                            <Material>
+                                <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                                <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                                <Shininess>100.0</Shininess>
+                            </Material>
+                            <Axis method="Computed" type="Fixed">
+                                <Direction>0.0 0.0 0.0</Direction>
+                                <Position>0.0 0.0 0.0</Position>
+                                <MinValue>-Infinity</MinValue>
+                                <MaxValue>Infinity</MaxValue>
+                            </Axis>
+                        </Component>
+                        <Component fileName="SCI-TT170-10-04-A" name="SCI-TT170-10-04-A-1" wall="False">
+                            <ConfigParams configuration="Défaut" fixed="False" visible="True">
+                                <AxisValue>0.0</AxisValue>
+                                <Transform>
+                                    <Rotation>-0.201290802450155 -1.52378665874586E-15 0.979531527235838 -3.5713460164943E-16 1.0 1.48223789416383E-15 -0.979531527235838 -5.14637466441641E-17 -0.201290802450155</Rotation>
+                                    <Translation>91.3118119130519 159.499999999999 -22.0715428811704</Translation>
+                                    <Scale>1.0</Scale>
+                                </Transform>
+                            </ConfigParams>
+                            <Material>
+                                <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                                <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                                <Shininess>100.0</Shininess>
+                            </Material>
+                            <Axis method="Computed" type="Fixed">
+                                <Direction>0.0 0.0 0.0</Direction>
+                                <Position>0.0 0.0 0.0</Position>
+                                <MinValue>-Infinity</MinValue>
+                                <MaxValue>Infinity</MaxValue>
+                            </Axis>
+                        </Component>
+                    </Component>
+                </Component>
+                <Component fileName="SCI-Platine gonio" name="SCI-Platine gonio-1" wall="False">
+                    <ConfigParams configuration="Défaut" fixed="False" visible="True">
+                        <AxisValue>0.0</AxisValue>
+                        <Transform>
+                            <Rotation>-0.201283035479599 0.00878465417523468 0.97949373120972 0.00176827008818041 0.999961414181078 -0.00860484572050624 -0.979531527235859 1.24097780662691E-15 -0.201290802450053</Rotation>
+                            <Translation>3.25735003052344 36.6798848971011 -15.8510821722154</Translation>
+                            <Scale>1.0</Scale>
+                        </Transform>
+                    </ConfigParams>
+                    <Material>
+                        <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                        <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                        <Shininess>100.0</Shininess>
+                    </Material>
+                    <Axis method="Computed" type="Fixed">
+                        <Direction>0.0 0.0 0.0</Direction>
+                        <Position>0.0 0.0 0.0</Position>
+                        <MinValue>-Infinity</MinValue>
+                        <MaxValue>Infinity</MaxValue>
+                    </Axis>
+                </Component>
+                <Component fileName="SCI-TT170-DURI_SANS PT O" name="SCI-TT170-DURI_SANS PT O-1" wall="False">
+                    <ConfigParams configuration="Défaut" fixed="False" visible="True">
+                        <AxisValue>0.0</AxisValue>
+                        <Transform>
+                            <Rotation>-0.201290802450155 -2.56379939586988E-16 0.979531527235838 -1.95118643840155E-16 1.0 2.21641004050241E-16 -0.979531527235838 -1.46510567631802E-16 -0.201290802450155</Rotation>
+                            <Translation>-1.09351781542961E-14 89.5000000000001 -8.00799583622496E-15</Translation>
+                            <Scale>1.0</Scale>
+                        </Transform>
+                    </ConfigParams>
+                    <Material>
+                        <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                        <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                        <Shininess>100.0</Shininess>
+                    </Material>
+                    <Axis method="Computed" type="Fixed">
+                        <Direction>0.0 0.0 0.0</Direction>
+                        <Position>0.0 0.0 0.0</Position>
+                        <MinValue>-Infinity</MinValue>
+                        <MaxValue>Infinity</MaxValue>
+                    </Axis>
+                    <Component fileName="SCI-TT170-10-09-A" name="SCI-TT170-10-09-A-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>-0.201290802450155 -2.56379939586988E-16 0.979531527235838 -1.95118643840155E-16 1.0 2.21641004050241E-16 -0.979531527235838 -1.46510567631802E-16 -0.201290802450155</Rotation>
+                                <Translation>-143.991134503668 114.5 -29.5897479601728</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-Embase 6 contacts" name="SCI-Embase 6 contacts-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>0.979531527235838 -2.14311915371373E-16 0.201290802450155 1.38245285641639E-15 1.0 -5.66267424309153E-15 -0.201290802450155 5.82504299439205E-15 0.979531527235838</Rotation>
+                                <Translation>119.355902758481 99.4999999999999 -14.4709528610925</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-R11X-J10-7N" name="SCI-R11X-J10-7N-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>-0.164530218882505 0.576104936126403 0.80064530826407 0.979531527235838 2.87447482855684E-17 0.201290802450155 0.115964624888379 0.817375741364272 -0.564312947932</Rotation>
+                                <Translation>126.506496742508 114.5 25.9967071364375</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-TT170-10-10-A" name="SCI-TT170-10-10-A-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>0.201290802450155 2.88723030754898E-16 -0.979531527235838 -1.55311533016314E-16 1.0 2.62840184808358E-16 0.979531527235838 9.92252314165879E-17 0.201290802450155</Rotation>
+                                <Translation>102.850810359763 114.5 21.1355342572662</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-Vis-Chc-M06-inox_Vis Chc M6-40" name="SCI-Vis-Chc-M06-inox_Vis Chc M6-40-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>-0.201290802450155 -1.31926786281579E-16 0.979531527235838 -0.979531527235838 -1.46510567631802E-16 -0.201290802450155 1.70067368743857E-16 -1.0 -9.97352167236782E-17</Rotation>
+                                <Translation>-126.601869378558 99.5 19.9240224315941</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-TT170-10-11-A" name="SCI-TT170-10-11-A-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>-0.201290802450155 -1.86991000547916E-16 0.979531527235838 0.979531527235838 -3.9626141803467E-16 0.201290802450155 3.50510983440891E-16 1.0 2.62927359162292E-16</Rotation>
+                                <Translation>-120.31254273076 114.5 -149.783650849011</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-TT170-07-12-A" name="SCI-TT170-07-12-A-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>0.979531527235838 1.46510567631802E-16 0.201290802450155 -1.95118643840155E-16 1.0 2.21641004050241E-16 -0.201290802450155 -2.56379939586988E-16 0.979531527235838</Rotation>
+                                <Translation>-100.369898023309 90.5000000000001 66.150461606783</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-Vis-Chc-M06-inox_Vis Chc M6-40" name="SCI-Vis-Chc-M06-inox_Vis Chc M6-40-2" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>-0.201290802450155 -1.31926786281579E-16 0.979531527235838 -0.979531527235838 -1.46510567631802E-16 -0.201290802450155 1.70067368743857E-16 -1.0 -9.97352167236782E-17</Rotation>
+                                <Translation>-108.485697158044 99.5000000000001 -68.2338150196313</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-Vis-Chc-M06-inox_Vis Chc M6-40" name="SCI-Vis-Chc-M06-inox_Vis Chc M6-40-3" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>-0.201290802450155 -1.36372902304771E-16 0.979531527235838 0.979531527235838 -1.39513538960529E-17 0.201290802450155 -1.37848199485756E-17 1.0 1.36389836489179E-16</Rotation>
+                                <Translation>101.628976467393 99.5000000000001 66.8247794024802</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-TT170-10-14-A" name="SCI-TT170-10-14-A-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>-0.201290802450155 -2.56379939586988E-16 0.979531527235838 -1.95118643840155E-16 1.0 2.21641004050241E-16 -0.979531527235838 -1.46510567631802E-16 -0.201290802450155</Rotation>
+                                <Translation>-163.581765048385 112.0 -33.6155640091759</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-Embase 5 contacts" name="SCI-Embase 5 contacts-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>0.979531527235838 2.43655082286503E-16 0.201290802450155 -3.01260179897608E-16 1.0 2.55544521646399E-16 -0.201290802450155 -3.10954818922916E-16 0.979531527235838</Rotation>
+                                <Translation>87.1133854850673 91.5000000000001 -110.935558182803</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-TT170-00-05-A" name="SCI-TT170-00-05-A-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>-0.201290802450155 -2.56379939586988E-16 0.979531527235838 -1.95118643840155E-16 1.0 2.21641004050241E-16 -0.979531527235838 -1.46510567631802E-16 -0.201290802450155</Rotation>
+                                <Translation>-102.850810359763 114.5 -21.1355342572663</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-TT170-10-06-A_Course 200" name="SCI-TT170-10-06-A_Course 200-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>-0.201290802450155 -2.56379939586988E-16 0.979531527235838 -1.95118643840155E-16 1.0 2.21641004050241E-16 -0.979531527235838 -1.46510567631802E-16 -0.201290802450155</Rotation>
+                                <Translation>-1.09351781542961E-14 89.5000000000001 -8.00799583622496E-15</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-500077_MOLETTE_Ï56xÏ6.35" name="SCI-500077_MOLETTE_Ï56xÏ6.35-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>4.09939026128588E-16 1.0 2.32636302470606E-16 0.201290802450155 1.45357637124472E-16 -0.979531527235838 -0.979531527235838 4.48375748340653E-16 -0.201290802450155</Rotation>
+                                <Translation>-19.812608036363 114.5 -129.131214517627</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-Vis-Chc-M06-inox_Vis Chc M6-40" name="SCI-Vis-Chc-M06-inox_Vis Chc M6-40-4" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>-0.201290802450155 -1.36372902304771E-16 0.979531527235838 0.979531527235838 -1.39513538960529E-17 0.201290802450155 -1.37848199485756E-17 1.0 1.36389836489179E-16</Rotation>
+                                <Translation>119.745148687907 99.5000000000001 -21.3330580487452</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-VSS 57-E radial_Default" name="SCI-VSS 57-E radial_Default-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>-1.85702937482385E-16 1.0 1.75821815511236E-16 0.201290802450155 2.09603304772279E-16 -0.979531527235838 -0.979531527235838 -1.46510567631802E-16 -0.201290802450155</Rotation>
+                                <Translation>-92.8856599681565 114.5 -144.147508380409</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-TT170-10-07-A" name="SCI-TT170-10-07-A-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>0.201290802450155 3.51853122293555E-16 -0.979531527235838 2.26506925347502E-16 -1.0 -3.12659014043253E-16 -0.979531527235838 -1.58935290685092E-16 -0.201290802450155</Rotation>
+                                <Translation>119.960528568026 124.5 -62.1246455577799</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-TT170-07-13-A" name="SCI-TT170-07-13-A-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>0.201290802450155 2.88723030754898E-16 -0.979531527235838 -1.55311533016314E-16 1.0 2.62840184808358E-16 0.979531527235838 9.92252314165879E-17 0.201290802450155</Rotation>
+                                <Translation>110.68706257765 114.5 22.745860676866</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-TT170-10-12-B_inverse" name="SCI-TT170-10-12-B_inverse-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>0.979531527235838 5.71325025406095E-17 0.201290802450155 -8.95790287963474E-17 1.0 1.5208335389373E-16 -0.201290802450155 -1.67001874495796E-16 0.979531527235838</Rotation>
+                                <Translation>84.0204260991373 106.5 -108.304284301774</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-Embase 4 contacts" name="SCI-Embase 4 contacts-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>0.979531527235838 5.71325025406089E-17 0.201290802450155 -8.9579028796347E-17 1.0 1.5208335389373E-16 -0.201290802450155 -1.67001874495796E-16 0.979531527235838</Rotation>
+                                <Translation>52.829782031813 91.5000000000001 -117.980736268558</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="NOMAD_3D_INSERTED" name="NOMAD_3D_INSERTED-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="False" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0</Rotation>
+                                <Translation>0.0 0.0 0.0</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>1.0 1.0 1.0 1.0</Diffuse>
+                            <Specular>0.0 0.0 0.0 0.0</Specular>
+                            <Shininess>250.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                        <Component fileName="SCI-TT170-10-19-A" name="SCI-TT170-10-19-A-1" wall="False">
+                            <ConfigParams configuration="Défaut" fixed="False" visible="True">
+                                <AxisValue>0.0</AxisValue>
+                                <Transform>
+                                    <Rotation>-0.201290802450155 -2.56379939586988E-16 0.979531527235838 -1.95118643840155E-16 1.0 2.21641004050241E-16 -0.979531527235838 -1.46510567631802E-16 -0.201290802450155</Rotation>
+                                    <Translation>0.97428578959019 139.499999999999 0.200212819035866</Translation>
+                                    <Scale>1.0</Scale>
+                                </Transform>
+                            </ConfigParams>
+                            <Material>
+                                <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                                <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                                <Shininess>100.0</Shininess>
+                            </Material>
+                            <Axis method="Computed" type="Fixed">
+                                <Direction>0.0 0.0 0.0</Direction>
+                                <Position>0.0 0.0 0.0</Position>
+                                <MinValue>-Infinity</MinValue>
+                                <MaxValue>Infinity</MaxValue>
+                            </Axis>
+                        </Component>
+                        <Component fileName="SCI-TT170-10-04-A" name="SCI-TT170-10-04-A-2" wall="False">
+                            <ConfigParams configuration="Défaut" fixed="False" visible="True">
+                                <AxisValue>0.0</AxisValue>
+                                <Transform>
+                                    <Rotation>-0.201290802450155 -2.56379939586988E-16 0.979531527235838 -1.95118643840155E-16 1.0 2.21641004050241E-16 -0.979531527235838 -1.46510567631802E-16 -0.201290802450155</Rotation>
+                                    <Translation>92.286097702643 109.5 -21.8713300621349</Translation>
+                                    <Scale>1.0</Scale>
+                                </Transform>
+                            </ConfigParams>
+                            <Material>
+                                <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                                <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                                <Shininess>100.0</Shininess>
+                            </Material>
+                            <Axis method="Computed" type="Fixed">
+                                <Direction>0.0 0.0 0.0</Direction>
+                                <Position>0.0 0.0 0.0</Position>
+                                <MinValue>-Infinity</MinValue>
+                                <MaxValue>Infinity</MaxValue>
+                            </Axis>
+                        </Component>
+                        <Component fileName="SCI-TT170-10-04-A" name="SCI-TT170-10-04-A-1" wall="False">
+                            <ConfigParams configuration="Défaut" fixed="False" visible="True">
+                                <AxisValue>0.0</AxisValue>
+                                <Transform>
+                                    <Rotation>0.201290802450155 1.27068940628129E-16 -0.979531527235838 -2.91433105268486E-16 1.0 6.98355643550666E-17 0.979531527235838 2.71410657902132E-16 0.201290802450155</Rotation>
+                                    <Translation>-90.3375261234617 109.5 22.2717557002064</Translation>
+                                    <Scale>1.0</Scale>
+                                </Transform>
+                            </ConfigParams>
+                            <Material>
+                                <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                                <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                                <Shininess>100.0</Shininess>
+                            </Material>
+                            <Axis method="Computed" type="Fixed">
+                                <Direction>0.0 0.0 0.0</Direction>
+                                <Position>0.0 0.0 0.0</Position>
+                                <MinValue>-Infinity</MinValue>
+                                <MaxValue>Infinity</MaxValue>
+                            </Axis>
+                        </Component>
+                    </Component>
+                </Component>
+                <Component fileName="SCI-0516_02_01-A" name="SCI-0516_02_01-A-1" wall="False">
+                    <ConfigParams configuration="Défaut" fixed="False" visible="True">
+                        <AxisValue>0.0</AxisValue>
+                        <Transform>
+                            <Rotation>0.201290802450155 1.96975498908133E-15 -0.979531527235838 0.979531527235838 -2.43071842352693E-16 0.201290802450155 1.58397029414615E-16 -1.0 -1.97836523893546E-15</Rotation>
+                            <Translation>3.85120028102388E-14 199.499999999998 1.07948841731496E-13</Translation>
+                            <Scale>1.0</Scale>
+                        </Transform>
+                    </ConfigParams>
+                    <Material>
+                        <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                        <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                        <Shininess>100.0</Shininess>
+                    </Material>
+                    <Axis method="Computed" type="Fixed">
+                        <Direction>0.0 0.0 0.0</Direction>
+                        <Position>0.0 0.0 0.0</Position>
+                        <MinValue>-Infinity</MinValue>
+                        <MaxValue>Infinity</MaxValue>
+                    </Axis>
+                </Component>
+                <Component fileName="SCI-RT120_00_00-A_DURCI" name="SCI-RT120_00_00-A_DURCI-1" wall="False">
+                    <ConfigParams configuration="Défaut" fixed="False" visible="True">
+                        <AxisValue>0.0</AxisValue>
+                        <Transform>
+                            <Rotation>0.201283035479701 -0.00878465417523467 -0.979493731209699 0.00176827008818042 0.999961414181078 -0.00860484572050623 0.979531527235838 -3.3133218391157E-16 0.201290802450155</Rotation>
+                            <Translation>-18.8490594246378 265.115411449417 91.7242503901785</Translation>
+                            <Scale>1.0</Scale>
+                        </Transform>
+                    </ConfigParams>
+                    <Material>
+                        <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                        <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                        <Shininess>100.0</Shininess>
+                    </Material>
+                    <Axis method="Computed" type="Fixed">
+                        <Direction>0.0 0.0 0.0</Direction>
+                        <Position>0.0 0.0 0.0</Position>
+                        <MinValue>-Infinity</MinValue>
+                        <MaxValue>Infinity</MaxValue>
+                    </Axis>
+                    <Component fileName="SCI-RT120_00_01-A" name="SCI-RT120_00_01-A-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>-0.979531527235837 5.77384014146382E-16 -0.201290802450156 -0.201283035479702 0.00878465417523506 0.979493731209699 0.00176827008818074 0.999961414181078 -0.00860484572050656</Rotation>
+                                <Translation>-8.54383853818896 287.166525905555 41.5764610697726</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-VSS 52-E radial" name="SCI-VSS 52-E radial-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>-0.00176827008818042 -0.999961414181078 0.0086048457205064 0.201283035479701 -0.00878465417523484 -0.979493731209699 0.979531527235838 -3.00108366187054E-16 0.201290802450155</Rotation>
+                                <Translation>-96.7016759894143 287.166525905555 23.4602888492585</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-Embase 5 contacts" name="SCI-Embase 5 contacts-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>0.979531527235838 -4.28862993374968E-16 0.201290802450155 0.00176827008818052 0.999961414181078 -0.00860484572050624 -0.201283035479701 0.00878465417523471 0.979493731209699</Rotation>
+                                <Translation>-46.3231814255602 271.005862900622 -25.460593774839</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-Rlts 1 rangÚe de billes contact oblique d=55 - RÚf.71911CD_71911_CD (D=80 L=13)" name="SCI-Rlts 1 rangÚe de billes contact oblique d=55 - RÚf.71911CD_71911_CD (D=80 L=13)-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>0.313199157337821 -0.00872572659913893 -0.949647381683431 -0.949685822292706 -0.00101579736933484 -0.313202501733192 0.00176827008818042 0.999961414181078 -0.00860484572050624</Rotation>
+                                <Translation>-18.8030844023451 291.114408218125 91.5005244014454</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-Rlts 1 rangÚe de billes contact oblique d=55 - RÚf.71911CD_71911_CD (D=80 L=13)" name="SCI-Rlts 1 rangÚe de billes contact oblique d=55 - RÚf.71911CD_71911_CD (D=80 L=13)-2" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>-0.116864242981332 -0.00833925740393256 -0.99311288658357 0.993146324532944 -0.00276169059263033 -0.116844987619389 -0.0017682700881804 -0.999961414181078 0.00860484572050617</Rotation>
+                                <Translation>-18.8030844023451 291.114408218125 91.5005244014454</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-Embase 4 contacts" name="SCI-Embase 4 contacts-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>-0.834961984619982 0.00621168853768701 0.55027256806511 0.00176827008818008 0.999961414181078 -0.008604845720506 -0.550304785968972 -0.00621168853768688 -0.834940750871075</Rotation>
+                                <Translation>44.9814590978517 275.600779634875 161.200591393181</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-Embase 6 contacts" name="SCI-Embase 6 contacts-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>-0.0017682700881806 -0.999961414181078 0.00860484572050617 0.979531527235838 -5.25866748913823E-16 0.201290802450155 -0.201283035479701 0.00878465417523465 0.979493731209699</Rotation>
+                                <Translation>-11.9865298696605 301.004705326054 -18.6735610606988</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-R11X-J10-7N" name="SCI-R11X-J10-7N-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>0.0387532114560288 -0.981292361526622 -0.188582846015617 0.979531527235838 -3.37807292447567E-16 0.201290802450155 -0.197525126889902 -0.192523508199663 0.961206805551034</Rotation>
+                                <Translation>34.7024783892733 287.166525905554 50.4634499979468</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-RT120_00_11-A" name="SCI-RT120_00_11-A-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>-0.979531527235838 3.3133218391157E-16 -0.201290802450155 0.00176827008818042 0.999961414181078 -0.00860484572050623 0.201283035479701 -0.00878465417523467 -0.979493731209699</Rotation>
+                                <Translation>-67.3157301723392 287.166525905555 29.4990129227631</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-PiÞce11^RT120_00_00-A" name="SCI-PiÞce11^RT120_00_00-A-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>0.201283035479701 -0.00878465417523467 -0.979493731209699 0.00176827008818042 0.999961414181078 -0.00860484572050623 0.979531527235838 -3.3133218391157E-16 0.201290802450155</Rotation>
+                                <Translation>39.9228322095125 265.115411449417 103.801698537188</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-RT200_10_03-B" name="SCI-RT200_10_03-B-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>0.834961984619982 -0.00621168853768742 -0.55027256806511 0.00176827008818042 0.999961414181078 -0.00860484572050623 0.550304785968971 0.00621168853768689 0.834940750871075</Rotation>
+                                <Translation>14.2134344857048 290.487148116205 141.605574299431</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-R7_00_030_A" name="SCI-R7_00_030_A-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>0.279747806454856 -0.00875594848120467 -0.960033592198675 0.00176827008818074 0.999961414181078 -0.00860484572050706 0.960071892102144 7.09588030460684E-4 0.279752495038445</Rotation>
+                                <Translation>-18.7800968911988 304.113906602479 91.3886614070789</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-RT120_00_05-A" name="SCI-RT120_00_05-A-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>-0.201283035479701 0.00878465417523505 0.979493731209699 0.00176827008818007 0.999961414181078 -0.00860484572050669 -0.979531527235838 -9.96828424092632E-17 -0.201290802450155</Rotation>
+                                <Translation>-18.8384498041087 271.115179934504 91.6726213158554</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-TT170-10-12-B_inverse" name="SCI-TT170-10-12-B_inverse-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>0.979531527235838 -5.52068292564926E-16 0.201290802450155 0.00176827008818063 0.999961414181078 -0.00860484572050617 -0.201283035479701 0.00878465417523466 0.979493731209699</Rotation>
+                                <Translation>-15.1059884526078 286.033395006699 -15.9133354411455</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-RT120_00_03-A" name="SCI-RT120_00_03-A-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="False" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>-0.8048695974853 0.00652973006555819 0.59341578481628 0.00176827008818007 0.999961414181078 -0.00860484572050669 -0.593449074702073 -0.00587645932934279 -0.804850087259115</Rotation>
+                                <Translation>-18.7818651612869 303.113945188298 91.3972662527992</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-RT120_00_07-A" name="SCI-RT120_00_07-A-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>-0.108154385669121 -0.00836314447478505 -0.994098932035956 0.00176827008818093 0.999961414181078 -0.00860484572050784 0.994132537482518 -0.00268848720889088 -0.108135424145362</Rotation>
+                                <Translation>-18.8384498041087 271.115179934504 91.6726213158555</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-RT120_00_06-A" name="SCI-RT120_00_06-A-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>0.201283035479701 -0.00878465417523467 -0.979493731209699 0.00176827008818042 0.999961414181078 -0.00860484572050623 0.979531527235838 -3.3133218391157E-16 0.201290802450155</Rotation>
+                                <Translation>-18.8613442487528 258.168310903442 91.7840314252816</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-RT120_00_04-A" name="SCI-RT120_00_04-A-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>0.201283035479701 -0.00878465417523467 -0.979493731209699 0.00176827008818042 0.999961414181078 -0.00860484572050623 0.979531527235838 -3.3133218391157E-16 0.201290802450155</Rotation>
+                                <Translation>-18.8490594246378 265.115411449417 91.7242503901785</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                </Component>
+                <Component fileName="SCI-INTERFACE_TT-TT" name="SCI-INTERFACE_TT-TT-1" wall="False">
+                    <ConfigParams configuration="Défaut" fixed="False" visible="True">
+                        <AxisValue>0.0</AxisValue>
+                        <Transform>
+                            <Rotation>-0.201290802450155 -2.60301778576904E-16 0.979531527235838 -4.42997342366244E-16 1.0 1.747064625185E-16 -0.979531527235838 -3.98763059295848E-16 -0.201290802450155</Rotation>
+                            <Translation>-6.50520473063613E-15 79.4999999999999 -9.75506046140782E-15</Translation>
+                            <Scale>1.0</Scale>
+                        </Transform>
+                    </ConfigParams>
+                    <Material>
+                        <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                        <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                        <Shininess>100.0</Shininess>
+                    </Material>
+                    <Axis method="Computed" type="Fixed">
+                        <Direction>0.0 0.0 0.0</Direction>
+                        <Position>0.0 0.0 0.0</Position>
+                        <MinValue>-Infinity</MinValue>
+                        <MaxValue>Infinity</MaxValue>
+                    </Axis>
+                </Component>
+                <Component fileName="SCI-BG206-DURCI_SANS PT 0" name="SCI-BG206-DURCI_SANS PT 0-1" wall="False">
+                    <ConfigParams configuration="Défaut" fixed="False" visible="True">
+                        <AxisValue>0.0</AxisValue>
+                        <Transform>
+                            <Rotation>0.201290802450155 1.96975498908133E-15 -0.979531527235838 -0.979531527235838 2.43071842352693E-16 -0.201290802450155 -1.58397029414615E-16 1.0 1.97836523893546E-15</Rotation>
+                            <Translation>-4.12939439176166E-14 199.499999999998 5.37418338653072E-14</Translation>
+                            <Scale>1.0</Scale>
+                        </Transform>
+                    </ConfigParams>
+                    <Material>
+                        <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                        <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                        <Shininess>100.0</Shininess>
+                    </Material>
+                    <Axis method="Computed" type="Fixed">
+                        <Direction>0.0 0.0 0.0</Direction>
+                        <Position>0.0 0.0 0.0</Position>
+                        <MinValue>-Infinity</MinValue>
+                        <MaxValue>Infinity</MaxValue>
+                    </Axis>
+                    <Component fileName="SCI-BG206_00_03-A" name="SCI-BG206_00_03-A-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>-0.979531527235838 2.43071842352693E-16 -0.201290802450155 -1.53581095964622E-16 1.0 1.95492969896087E-15 0.201290802450155 1.94582973570973E-15 -0.979531527235838</Rotation>
+                                <Translation>-56.3230628160607 220.499999999998 -11.5742211408838</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-BG206_00_07-A" name="SCI-BG206_00_07-A-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>0.979531527235838 -4.00819300706918E-16 0.201290802450155 -1.87799150362367E-18 1.0 2.00038376165899E-15 -0.201290802450155 -1.95981698353236E-15 0.979531527235838</Rotation>
+                                <Translation>56.3230628160606 220.499999999998 11.574221140884</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-Embase 4 contacts" name="SCI-Embase 4 contacts-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>0.201290802450155 1.9410798264017E-15 -0.979531527235838 1.77211071385991E-15 -1.0 -1.61747753362191E-15 -0.979531527235838 -1.41025496329034E-15 -0.201290802450155</Rotation>
+                                <Translation>77.574363758891 231.099999999998 -113.202067504985</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-R11X-J10-7N" name="SCI-R11X-J10-7N-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>-0.976383963360972 -0.0801020997271732 -0.200643987477366 -0.201290802450155 -1.99470237481048E-15 0.979531527235838 -0.0784625320805558 0.996786664045671 -0.0161238159320231</Rotation>
+                                <Translation>-17.5424934335311 216.099999999998 85.3661725986034</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-BG206_12_01-A" name="SCI-BG206_12_01-A-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>0.201290802450155 2.07335380608756E-15 -0.979531527235838 1.24875595678512E-16 -1.0 -2.09101743055367E-15 -0.979531527235838 2.98582993583951E-16 -0.201290802450155</Rotation>
+                                <Translation>17.1097182082631 216.099999999998 -83.2601798150461</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-BG206_00_02-A" name="SCI-BG206_00_02-A-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="False" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>0.00176827008818044 0.999961414181078 -0.00860484572050634 -0.979531527235838 3.3709098114973E-16 -0.201290802450154 -0.2012830354797 0.00878465417523479 0.9794937312097</Rotation>
+                                <Translation>-0.364263638165244 245.507948678691 1.77259821842491</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-VSS 57-E radial_Default" name="SCI-VSS 57-E radial_Default-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>-2.18348881719107E-16 1.0 2.07180894952819E-15 -0.979531527235838 2.03156472393389E-16 -0.201290802450155 -0.201290802450155 -2.07335380608756E-15 0.979531527235838</Rotation>
+                                <Translation>24.3561870964687 216.099999999998 -118.523314795536</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-BG206_11_04-A" name="SCI-BG206_11_04-A-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>-0.201290802450155 -1.55728388389607E-15 0.979531527235838 -4.07698668607013E-16 1.0 1.50604431885644E-15 -0.979531527235838 -9.62008300445362E-17 -0.201290802450155</Rotation>
+                                <Translation>-4.12939439176166E-14 199.499999999998 5.37418338653072E-14</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-BG206_11_03-A" name="SCI-BG206_11_03-A-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>0.201290802450155 1.96975498908133E-15 -0.979531527235838 -4.96471839262677E-17 1.0 2.000713007288E-15 0.979531527235838 -3.54094144815209E-16 0.201290802450155</Rotation>
+                                <Translation>71.0160357245982 200.499999999998 14.5935831776363</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-BG206_12_07-A" name="SCI-BG206_12_07-A-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>-0.979531527235838 -1.53328499704756E-15 -0.201290802450155 -1.91293889304649E-15 1.0 1.69157733101801E-15 0.201290802450155 2.04201033130903E-15 -0.979531527235838</Rotation>
+                                <Translation>28.4826485466968 216.099999999998 -138.603711103871</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-Embase 6 contacts" name="SCI-Embase 6 contacts-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>0.201290802450155 2.20567738181418E-15 -0.979531527235838 2.58503002480298E-16 -1.0 -2.19864603142132E-15 -0.979531527235838 1.89355383154071E-16 -0.201290802450155</Rotation>
+                                <Translation>4.17769526523573 231.099999999998 144.605791333787</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-BG206_12_07-A" name="SCI-BG206_12_07-A-2" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>0.979531527235838 4.86395407092303E-15 0.201290802450155 5.17619705804483E-15 -1.0 -1.02485625824041E-15 0.201290802450155 2.04579987528541E-15 -0.979531527235838</Rotation>
+                                <Translation>28.482648546697 216.099999999998 -138.603711103871</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-BG206_00_01-A" name="SCI-BG206_00_01-A-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>0.201290802450155 1.96975498908133E-15 -0.979531527235838 -0.979531527235838 2.43071842352693E-16 -0.201290802450155 -1.58397029414615E-16 1.0 1.97836523893546E-15</Rotation>
+                                <Translation>-4.12939439176166E-14 199.499999999998 5.37418338653072E-14</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-BG206_11_08-A" name="SCI-BG206_11_08-A-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>-0.979531527235838 2.10272374276624E-17 -0.201290802450155 -3.75097166185966E-16 1.0 1.92977887094382E-15 0.201290802450155 1.96578285426141E-15 -0.979531527235838</Rotation>
+                                <Translation>-25.3233894022418 216.099999999998 123.229963783905</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-Embase 5 contacts" name="SCI-Embase 5 contacts-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>0.201290802450155 1.52566577923127E-15 -0.979531527235838 8.46626298725587E-17 1.0 1.57494429228762E-15 0.979531527235838 -3.99951515547736E-16 0.201290802450155</Rotation>
+                                <Translation>-26.6477907390017 201.099999999998 -134.619408885682</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                    <Component fileName="SCI-500077_MOLETTE_Ï56xÏ6.35" name="SCI-500077_MOLETTE_Ï56xÏ6.35-1" wall="False">
+                        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                            <AxisValue>0.0</AxisValue>
+                            <Transform>
+                                <Rotation>0.902048335388838 -0.389804331632146 0.185368238010299 0.381825632286781 0.920897704981838 0.078464026712783 -0.201290802450155 -2.10853286715948E-15 0.979531527235838</Rotation>
+                                <Translation>39.2718355580252 216.099999999999 -191.106600963712</Translation>
+                                <Scale>1.0</Scale>
+                            </Transform>
+                        </ConfigParams>
+                        <Material>
+                            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                            <Shininess>100.0</Shininess>
+                        </Material>
+                        <Axis method="Computed" type="None">
+                            <Direction>0.0 0.0 0.0</Direction>
+                            <Position>0.0 0.0 0.0</Position>
+                            <MinValue>-Infinity</MinValue>
+                            <MaxValue>Infinity</MaxValue>
+                        </Axis>
+                    </Component>
+                </Component>
+            </Component>
+        </Component>
+    </RootComponent>
+    <GeometriesDirectories>
+        <Directory lod="0">exported</Directory>
+        <Directory lod="1">decimated</Directory>
+        <Directory lod="2">convex_hull</Directory>
+    </GeometriesDirectories>
+</Nomad3DXML>

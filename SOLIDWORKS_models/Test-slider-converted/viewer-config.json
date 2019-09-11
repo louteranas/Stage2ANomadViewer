@@ -1,0 +1,91 @@
+{
+  "name": "nomad-3d-viewer",
+  "localEndpoint": "tcp://localhost:7000",
+  "nomadEndpoint": "tcp://gamma15:8000",
+  "modelPath": "/users/ics/nomad3d/SOLIDWORKS_models/Test-slider-converted/cubetrou-view.xml",
+  "frameTimeOut": 0,
+  "collisionMargin": 0.001,
+  "instrumentPosition": {
+    "x": 0,
+    "y": 0,
+    "z": -50
+  },
+  "minDeltaTime": 20,
+  "numberOfLights": 1,
+  "lightsPos": [
+    [
+      39.04105826186387,
+      51.220839702247545,
+      -12.5
+    ]
+  ],
+  "lightsParams": [
+    {
+      "Color": 16777215,
+      "Intensity": 3.3000000000000003,
+      "Reach": 665,
+      "Visible": true
+    }
+  ],
+  "ambientLight": 0.36,
+  "objects": [
+    {
+      "name": "Cube",
+      "dirPath": "/users/ics/nomad3d/SOLIDWORKS_models/Test-slider-converted/",
+      "modelName": "carrecubetrou-view.xml",
+      "visible": true,
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "transformationElements": [
+        0.7102674830240832,
+        -0.6211477802783104,
+        -0.3312031666726054,
+        0,
+        0.5629510701667627,
+        0.7836934573258398,
+        -0.26250839518531344,
+        0,
+        0.4226182617406994,
+        -2.7755575615628914e-17,
+        0.9063077870366499,
+        0,
+        -0.66,
+        1.75,
+        -1.19,
+        1
+      ]
+    },
+    {
+      "name": "Cube 2",
+      "dirPath": "/users/ics/nomad3d/SOLIDWORKS_models/Test-slider-converted/",
+      "modelName": "carrecubetrou-view.xml",
+      "visible": true,
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "transformationElements": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}

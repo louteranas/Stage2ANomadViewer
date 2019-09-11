@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Nomad3DXML>
+    <RootComponent fileName="carrecubetrou" mergeable="True" name="carrecubetrou" wall="False">
+        <ConfigParams configuration="Default" fixed="True" visible="True">
+            <Transform>
+                <Rotation>1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0</Rotation>
+                <Translation>0.0 0.0 0.0</Translation>
+                <Scale>1.0</Scale>
+            </Transform>
+            <BoundingBox>
+                <Min>30.8888926806866 6.81251444575712 8.472548783305</Min>
+                <Max>120.888892680687 96.8125144457571 78.472548783305</Max>
+            </BoundingBox>
+        </ConfigParams>
+        <Material>
+            <Diffuse>0.7921568751335144 0.8196078538894653 0.9333333373069763 1.0</Diffuse>
+            <Specular>0.3960784375667572 0.40980392694473267 0.46666666865348816 0.5</Specular>
+            <Shininess>0.400000005960464</Shininess>
+        </Material>
+        <Axis type="None">
+            <Direction>0.0 0.0 0.0</Direction>
+            <Position>0.0 0.0 0.0</Position>
+            <ZeroValue>0.0</ZeroValue>
+        </Axis>
+        <Component fileName="carre" mergeable="True" name="carre-1" wall="False">
+            <ConfigParams configuration="Default" fixed="True" visible="True">
+                <Transform>
+                    <Rotation>1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0</Rotation>
+                    <Translation>75.8888926806866 51.8125144457571 78.472548783305</Translation>
+                    <Scale>1.0</Scale>
+                </Transform>
+                <BoundingBox>
+                    <Min>30.8888926806866 6.81251444575712 8.472548783305</Min>
+                    <Max>120.888892680687 96.8125144457571 78.472548783305</Max>
+                </BoundingBox>
+            </ConfigParams>
+            <Material>
+                <Diffuse>0.7921568751335144 0.8196078538894653 0.9333333373069763 1.0</Diffuse>
+                <Specular>0.3960784375667572 0.40980392694473267 0.46666666865348816 0.5</Specular>
+                <Shininess>0.400000005960464</Shininess>
+            </Material>
+            <Axis type="None">
+                <Direction>0.0 0.0 0.0</Direction>
+                <Position>0.0 0.0 0.0</Position>
+                <ZeroValue>0.0</ZeroValue>
+            </Axis>
+        </Component>
+    </RootComponent>
+    <GeometriesDirectories>
+        <Directory lod="0">exported</Directory>
+        <Directory lod="1">decimated</Directory>
+        <Directory lod="2">convex_hull</Directory>
+    </GeometriesDirectories>
+</Nomad3DXML>

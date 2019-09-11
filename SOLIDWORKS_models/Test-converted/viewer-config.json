@@ -1,0 +1,73 @@
+{
+  "name": "nomad-3d-viewer",
+  "localEndpoint": "tcp://gamma3d:7000",
+  "nomadEndpoint": "tcp://gamma3d:7000",
+  "modelPath": "/users/ics/nomad3d/SOLIDWORKS_models/Test-converted/Test-view.xml",
+  "instrumentPosition": {
+    "x": 0,
+    "y": 0,
+    "z": -50
+  },
+  "frameTimeOut": 0,
+  "collisionMargin": 0.05,
+  "minDeltaTime": 100,
+  "numberOfLights": 2,
+  "lightsPos": [
+    [
+      -24,
+      103.29984698555612,
+      119.86838718726591
+    ],
+    [
+      35.928247086023326,
+      -96.80525198840996,
+      200.71412231903543
+    ]
+  ],
+  "lightsParams": [
+    {
+      "Color": 16777215,
+      "Intensity": 1,
+      "Reach": 1360,
+      "Visible": true
+    },
+    {
+      "Color": 16777215,
+      "Intensity": 1,
+      "Reach": 695,
+      "Visible": true
+    }
+  ],
+  "ambientLight": 0.36,
+  "objects": [
+    {
+      "name": "Floor",
+      "dirPath": "/users/ics/nomad3d/models/thales/",
+      "modelName": "Floor-view.xml",
+      "visible": true,
+      "position": {
+        "x": 40.5,
+        "y": 0,
+        "z": 52
+      },
+      "transformationElements": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        -33.58,
+        -6.358401386150419,
+        42.53,
+        1
+      ]
+    }
+  ]
+}

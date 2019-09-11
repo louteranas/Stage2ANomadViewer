@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Nomad3DXML state="converted">
+    <RootComponent fileName="2Hole_Block_ASS" name="Triangle">
+        <ConfigParams configuration="Default" fixed="True" visible="True">
+            <Transform>
+                <Rotation>1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0</Rotation>
+                <Translation>0.0 0.0 0.0</Translation>
+                <Scale>1.0</Scale>
+            </Transform>
+            <BoundingBox>
+                <Min>-3080.61773048969 -443.60139506233 -8100.33090957629</Min>
+                <Max>2497.37246053977 1598.09904957763 5524.66310470344</Max>
+            </BoundingBox>
+        </ConfigParams>
+        <Material>
+            <Diffuse>1.0 0.5921568870544434 0.7215686440467834 1.0</Diffuse>
+            <Specular>0.5 0.2960784435272217 0.3607843220233917 0.5</Specular>
+            <Shininess>0.400000005960464</Shininess>
+        </Material>
+        <AxisGroup/>
+        <Component fileName="triangle" name="triangle-1">
+            <ConfigParams configuration="Default" fixed="False" visible="True">
+                <Transform>
+                    <Rotation>1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0</Rotation>
+                    <Translation>497.618927053069 551.138365933536 4842.1181207361</Translation>
+                    <Scale>1.0</Scale>
+                </Transform>
+                <BoundingBox>
+                    <Min>247.618927053069 368.125664041317 3242.1181207361</Min>
+                    <Max>747.618927053069 801.138365933536 4842.1181207361</Max>
+                </BoundingBox>
+            </ConfigParams>
+            <Material>
+                <Diffuse>1.0 0.5921568870544434 0.7215686440467834 1.0</Diffuse>
+                <Specular>0.5 0.2960784435272217 0.3607843220233917 0.5</Specular>
+                <Shininess>0.400000005960464</Shininess>
+            </Material>
+            <AxisGroup/>
+        </Component>
+    </RootComponent>
+    <GeometriesDirectories>
+        <Directory lod="0">exported</Directory>
+        <Directory lod="1">decimated</Directory>
+        <Directory lod="2">convex_hull</Directory>
+    </GeometriesDirectories>
+</Nomad3DXML>

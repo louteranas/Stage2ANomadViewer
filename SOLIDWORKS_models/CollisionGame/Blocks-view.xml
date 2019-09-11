@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Nomad3DXML>
+    <RootComponent fileName="2Hole_Block_ASS" mergeable="True" name="Blocks" wall="False">
+        <ConfigParams configuration="Default" fixed="True" visible="True">
+            <Transform>
+                <Rotation>1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0</Rotation>
+                <Translation>0.0 0.0 0.0</Translation>
+                <Scale>1.0</Scale>
+            </Transform>
+            <BoundingBox>
+                <Min>-3080.61773048969 -443.60139506233 -8100.33090957629</Min>
+                <Max>2497.37246053977 1598.09904957763 5524.66310470344</Max>
+            </BoundingBox>
+        </ConfigParams>
+        <Material>
+            <Diffuse>0.49803921580314636 1.0 0.9647058844566345 1.0</Diffuse>
+            <Specular>0.24901960790157318 0.5 0.48235294222831726 0.5</Specular>
+            <Shininess>0.400000005960464</Shininess>
+        </Material>
+        <Axis type="None">
+            <Direction>0.0 0.0 0.0</Direction>
+            <Position>0.0 0.0 0.0</Position>
+            <ZeroValue>0.0</ZeroValue>
+        </Axis>
+        <Component fileName="Holes_Block" mergeable="True" name="Holes_Block-2" wall="False">
+            <ConfigParams configuration="Default" fixed="False" visible="True">
+                <Transform>
+                    <Rotation>-8.49734653981787E-17 0.0 1.0 3.991681514019E-16 -1.0 -1.66533453693773E-16 1.0 3.33762512719007E-16 1.69946930796357E-16</Rotation>
+                    <Translation>-2480.61773048969 598.09904957763 -6100.33090957629</Translation>
+                    <Scale>1.0</Scale>
+                </Transform>
+                <BoundingBox>
+                    <Min>-3080.61773048969 -401.90095042237 -8100.33090957629</Min>
+                    <Max>-2480.61773048969 1598.09904957763 -4100.33090957629</Max>
+                </BoundingBox>
+            </ConfigParams>
+            <Material>
+                <Diffuse>0.49803921580314636 1.0 0.9647058844566345 1.0</Diffuse>
+                <Specular>0.24901960790157318 0.5 0.48235294222831726 0.5</Specular>
+                <Shininess>0.400000005960464</Shininess>
+            </Material>
+            <Axis type="None">
+                <Direction>0.0 0.0 0.0</Direction>
+                <Position>0.0 0.0 0.0</Position>
+                <ZeroValue>0.0</ZeroValue>
+            </Axis>
+        </Component>
+        <Component fileName="Holes_Block" mergeable="True" name="Holes_Block-1" wall="False">
+            <ConfigParams configuration="Default" fixed="True" visible="True">
+                <Transform>
+                    <Rotation>1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0</Rotation>
+                    <Translation>497.372460539773 556.39860493767 978.631450863168</Translation>
+                    <Scale>1.0</Scale>
+                </Transform>
+                <BoundingBox>
+                    <Min>-1502.62753946023 -443.60139506233 378.631450863168</Min>
+                    <Max>2497.37246053977 1556.39860493767 978.631450863168</Max>
+                </BoundingBox>
+            </ConfigParams>
+            <Material>
+                <Diffuse>0.49803921580314636 1.0 0.9647058844566345 1.0</Diffuse>
+                <Specular>0.24901960790157318 0.5 0.48235294222831726 0.5</Specular>
+                <Shininess>0.400000005960464</Shininess>
+            </Material>
+            <Axis type="None">
+                <Direction>0.0 0.0 0.0</Direction>
+                <Position>0.0 0.0 0.0</Position>
+                <ZeroValue>0.0</ZeroValue>
+            </Axis>
+        </Component>
+    </RootComponent>
+    <GeometriesDirectories>
+        <Directory lod="0">exported</Directory>
+        <Directory lod="1">decimated</Directory>
+        <Directory lod="2">convex_hull</Directory>
+    </GeometriesDirectories>
+</Nomad3DXML>

@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Nomad3DXML state="exported">
+	<RootComponent name="SCI-IN12-755-05-Ligne monochromateur" fileName="SCI-IN12-755-05-Ligne monochromateur">
+		<ConfigParams configuration="Défaut" visible="True" fixed="True">
+			<AxisValue>0</AxisValue>
+			<Transform>
+				<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+				<Translation>0 0 0</Translation>
+				<Scale>1</Scale>
+			</Transform>
+			<BoundingBox>
+				<Min>-1.79769313486232E+308 -1.79769313486232E+308 -1.79769313486232E+308</Min>
+				<Max>1.79769313486232E+308 1.79769313486232E+308 1.79769313486232E+308</Max>
+			</BoundingBox>
+			<MateGroup>
+				<Mate name="Coïncidente1" type="Coincident" alignment="Aligned" min="0" max="0" flipped="False">
+					<Entity type="Point">
+						<ComponentPath>SCI-IN12-755-05-Ligne monochromateur/SCI-IN12-755-Huber 5202.3-1</ComponentPath>
+						<Position>-6.08867558533163E-14 170 -3.43785588750504E-14</Position>
+						<Axis>0 -1 0</Axis>
+						<Radius>0 0</Radius>
+					</Entity>
+					<Entity type="Point">
+						<ComponentPath>SCI-IN12-755-05-Ligne monochromateur</ComponentPath>
+						<Position>0 889.859571876616 0</Position>
+						<Axis>0 -1 0</Axis>
+						<Radius>0 0</Radius>
+					</Entity>
+				</Mate>
+				<Mate name="Distance1" type="Distance" alignment="Aligned" min="0" max="0" flipped="False">
+					<Entity type="Plane">
+						<ComponentPath>SCI-IN12-755-05-Ligne monochromateur/SCI-IN12-755-Huber 5202.3-1</ComponentPath>
+						<Position>89.1739671204136 170 -13.153082832834</Position>
+						<Axis>0 1 0</Axis>
+						<Radius>0 0</Radius>
+					</Entity>
+					<Entity type="Plane">
+						<ComponentPath>SCI-IN12-755-05-Ligne monochromateur</ComponentPath>
+						<Position>0 390 0</Position>
+						<Axis>0 1 0</Axis>
+						<Radius>0 0</Radius>
+					</Entity>
+				</Mate>
+				<Mate name="Distance2" type="Distance" alignment="AntiAligned" min="0" max="0" flipped="False">
+					<Entity type="Plane">
+						<ComponentPath>SCI-IN12-755-05-Ligne monochromateur/SCI-IN12-755-Huber 5202.3-1</ComponentPath>
+						<Position>89.1739671204136 170 -13.153082832834</Position>
+						<Axis>0 1 0</Axis>
+						<Radius>0 0</Radius>
+					</Entity>
+					<Entity type="Plane">
+						<ComponentPath>SCI-IN12-755-05-Ligne monochromateur/SCI-IN12-755-Huber 5101.3-1</ComponentPath>
+						<Position>-183.185702114398 170 40.6447849158413</Position>
+						<Axis>0 -1 0</Axis>
+						<Radius>0 0</Radius>
+					</Entity>
+				</Mate>
+				<Mate name="Coïncidente4" type="Coincident" alignment="AntiAligned" min="0" max="0" flipped="False">
+					<Entity type="Plane">
+						<ComponentPath>SCI-IN12-755-05-Ligne monochromateur/SCI-IN12-755-Huber 5202.3-1</ComponentPath>
+						<Position>-6.08867558533163E-14 90 -3.43785588750504E-14</Position>
+						<Axis>0.191656242808803 0 -0.981462115719406</Axis>
+						<Radius>0 0</Radius>
+					</Entity>
+					<Entity type="Plane">
+						<ComponentPath>SCI-IN12-755-05-Ligne monochromateur/SCI-IN12-755-Huber 5101.3-1</ComponentPath>
+						<Position>-5.56603000580946E-14 170 -3.74509455989872E-14</Position>
+						<Axis>-0.191656242808803 0 0.981462115719406</Axis>
+						<Radius>0 0</Radius>
+					</Entity>
+				</Mate>
+				<Mate name="Coïncidente5" type="Coincident" alignment="AntiAligned" min="0" max="0" flipped="False">
+					<Entity type="Plane">
+						<ComponentPath>SCI-IN12-755-05-Ligne monochromateur/SCI-IN12-755-Huber 5202.3-1</ComponentPath>
+						<Position>-6.08867558533163E-14 90 -3.43785588750504E-14</Position>
+						<Axis>0.981462115719406 0 0.191656242808803</Axis>
+						<Radius>0 0</Radius>
+					</Entity>
+					<Entity type="Plane">
+						<ComponentPath>SCI-IN12-755-05-Ligne monochromateur/SCI-IN12-755-Huber 5101.3-1</ComponentPath>
+						<Position>-5.56603000580946E-14 170 -3.74509455989872E-14</Position>
+						<Axis>-0.981462115719406 0 -0.191656242808803</Axis>
+						<Radius>0 0</Radius>
+					</Entity>
+				</Mate>
+				<Mate name="Coïncidente6" type="Coincident" alignment="Aligned" min="0" max="0" flipped="False">
+					<Entity type="Point">
+						<ComponentPath>SCI-IN12-755-05-Ligne monochromateur/SCI-IN12-755-Huber 411-1</ComponentPath>
+						<Position>5.17494252491953E-31 88.9999999999999 -1.40906242947279E-31</Position>
+						<Axis>0 -1 0</Axis>
+						<Radius>0 0</Radius>
+					</Entity>
+					<Entity type="Point">
+						<ComponentPath>SCI-IN12-755-05-Ligne monochromateur</ComponentPath>
+						<Position>0 889.859571876616 0</Position>
+						<Axis>0 -1 0</Axis>
+						<Radius>0 0</Radius>
+					</Entity>
+				</Mate>
+				<Mate name="Coïncidente8" type="Coincident" alignment="Aligned" min="0" max="0" flipped="False">
+					<Entity type="Plane">
+						<ComponentPath>SCI-IN12-755-05-Ligne monochromateur/SCI-IN12-755-Huber 5202.3-1</ComponentPath>
+						<Position>-89.1739671204137 90 13.1530828328339</Position>
+						<Axis>0 -1 0</Axis>
+						<Radius>0 0</Radius>
+					</Entity>
+					<Entity type="Plane">
+						<ComponentPath>SCI-IN12-755-05-Ligne monochromateur/SCI-IN12-755-Huber 411-1</ComponentPath>
+						<Position>5.17494252491953E-31 90 -1.40906242947279E-31</Position>
+						<Axis>0 -1 0</Axis>
+						<Radius>0 0</Radius>
+					</Entity>
+				</Mate>
+				<Mate name="Parallèle1" type="Parallel" alignment="Aligned" min="0" max="0" flipped="False">
+					<Entity type="Plane">
+						<ComponentPath>SCI-IN12-755-05-Ligne monochromateur/SCI-IN12-755-Huber 5202.3-1</ComponentPath>
+						<Position>-89.1739671204137 162 13.1530828328339</Position>
+						<Axis>-0.191656242808803 0 0.981462115719406</Axis>
+						<Radius>0 0</Radius>
+					</Entity>
+					<Entity type="Plane">
+						<ComponentPath>SCI-IN12-755-05-Ligne monochromateur/SCI-IN12-755-Huber 411-1</ComponentPath>
+						<Position>-108.15642109462 20 86.8817505348692</Position>
+						<Axis>-0.191656242808803 0 0.981462115719406</Axis>
+						<Radius>0 0</Radius>
+					</Entity>
+				</Mate>
+			</MateGroup>
+		</ConfigParams>
+		<Material>
+			<Diffuse>0.8 0.8 0.8 1</Diffuse>
+			<Specular>0.2 0.2 0.2 1</Specular>
+			<Shininess>100</Shininess>
+		</Material>
+		<Axis type="Fixed" method="Computed">
+			<Direction>0 0 0</Direction>
+			<Position>0 0 0</Position>
+		</Axis>
+		<Component name="SCI-IN12-755-Huber 5202.3-1" fileName="SCI-IN12-755-Huber 5202.3">
+			<ConfigParams configuration="Défaut" visible="True" fixed="False">
+				<AxisValue>0</AxisValue>
+				<Transform>
+					<Rotation>0.191656242808803 0 -0.981462115719406 0 1 0 0.981462115719406 0 0.191656242808803</Rotation>
+					<Translation>-6.08867558533163E-14 90 -3.43785588750504E-14</Translation>
+					<Scale>1</Scale>
+				</Transform>
+				<BoundingBox>
+					<Min>-186.353669737301 89.9998969223593 -66.0020268380128</Min>
+					<Max>154.100312288404 170 70.9872463479326</Max>
+				</BoundingBox>
+				<MateGroup />
+			</ConfigParams>
+			<Material>
+				<Diffuse>0.8 0.8 0.8 1</Diffuse>
+				<Specular>0.2 0.2 0.2 1</Specular>
+				<Shininess>100</Shininess>
+			</Material>
+			<Axis type="None" method="ToCompute">
+				<Direction>0 0 0</Direction>
+				<Position>0 0 0</Position>
+			</Axis>
+		</Component>
+		<Component name="SCI-IN12-755-Huber 5101.3-1" fileName="SCI-IN12-755-Huber 5101.3">
+			<ConfigParams configuration="Défaut" visible="True" fixed="False">
+				<AxisValue>0</AxisValue>
+				<Transform>
+					<Rotation>-0.191656242808803 0 0.981462115719406 0 1 0 -0.981462115719406 0 -0.191656242808803</Rotation>
+					<Translation>-5.56603000580946E-14 170 -3.74509455989872E-14</Translation>
+					<Scale>1</Scale>
+				</Transform>
+				<BoundingBox>
+					<Min>-271.221682612434 170 -124.21852176787</Min>
+					<Max>251.156986398679 232.003192664824 121.468815734012</Max>
+				</BoundingBox>
+				<MateGroup />
+			</ConfigParams>
+			<Material>
+				<Diffuse>0.8 0.8 0.8 1</Diffuse>
+				<Specular>0.2 0.2 0.2 1</Specular>
+				<Shininess>100</Shininess>
+			</Material>
+			<Axis type="None" method="ToCompute">
+				<Direction>0 0 0</Direction>
+				<Position>0 0 0</Position>
+			</Axis>
+		</Component>
+		<Component name="SCI-IN12-755-Huber 411-1" fileName="SCI-IN12-755-Huber 411">
+			<ConfigParams configuration="Défaut" visible="True" fixed="False">
+				<AxisValue>0</AxisValue>
+				<Transform>
+					<Rotation>0.981462115719406 0 0.191656242808803 0 1 0 -0.191656242808803 0 0.981462115719406</Rotation>
+					<Translation>5.17494252491953E-31 4.99999999999999 -1.40906242947279E-31</Translation>
+					<Scale>1</Scale>
+				</Transform>
+				<BoundingBox>
+					<Min>-137.829887928445 4.99999999999992 -129.307322900641</Min>
+					<Max>197.553711295653 92.775287213695 154.786951884291</Max>
+				</BoundingBox>
+				<MateGroup />
+			</ConfigParams>
+			<Material>
+				<Diffuse>0.8 0.8 0.8 1</Diffuse>
+				<Specular>0.2 0.2 0.2 1</Specular>
+				<Shininess>100</Shininess>
+			</Material>
+			<Axis type="None" method="ToCompute">
+				<Direction>0 0 0</Direction>
+				<Position>0 0 0</Position>
+			</Axis>
+		</Component>
+	</RootComponent>
+</Nomad3DXML>

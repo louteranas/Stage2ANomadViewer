@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Nomad3DXML state="converted">
+    <RootComponent fileName="cubetrou" name="cubetrou">
+        <ConfigParams configuration="Default" fixed="True" visible="True">
+            <Transform>
+                <Rotation>1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0</Rotation>
+                <Translation>0.0 0.0 0.0</Translation>
+                <Scale>1.0</Scale>
+            </Transform>
+            <BoundingBox>
+                <Min>-2.82829134471689 44.3754080134341 61.6181376241775</Min>
+                <Max>147.171708655283 144.375408013434 261.618137624178</Max>
+            </BoundingBox>
+        </ConfigParams>
+        <Material>
+            <Diffuse>0.7921568751335144 0.8196078538894653 0.9333333373069763 1.0</Diffuse>
+            <Specular>0.3960784375667572 0.40980392694473267 0.46666666865348816 0.5</Specular>
+            <Shininess>0.400000005960464</Shininess>
+        </Material>
+        <AxisGroup/>
+        <Component fileName="cube_et_trou" name="cube_et_trou-1">
+            <ConfigParams configuration="Default" fixed="True" visible="True">
+                <Transform>
+                    <Rotation>1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0</Rotation>
+                    <Translation>97.1717086552831 94.3754080134341 261.618137624178</Translation>
+                    <Scale>1.0</Scale>
+                </Transform>
+                <BoundingBox>
+                    <Min>-2.82829134471689 44.3754080134341 61.6181376241775</Min>
+                    <Max>147.171708655283 144.375408013434 261.618137624178</Max>
+                </BoundingBox>
+            </ConfigParams>
+            <Material>
+                <Diffuse>0.7921568751335144 0.8196078538894653 0.9333333373069763 1.0</Diffuse>
+                <Specular>0.3960784375667572 0.40980392694473267 0.46666666865348816 0.5</Specular>
+                <Shininess>0.400000005960464</Shininess>
+            </Material>
+            <AxisGroup/>
+        </Component>
+    </RootComponent>
+    <GeometriesDirectories>
+        <Directory lod="0">exported</Directory>
+        <Directory lod="1">decimated</Directory>
+        <Directory lod="2">convex_hull</Directory>
+    </GeometriesDirectories>
+</Nomad3DXML>

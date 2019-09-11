@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Nomad3DXML state="exported">
+	<RootComponent name="Complete" fileName="Complete">
+		<ConfigParams configuration="Default" visible="True" fixed="True">
+			<AxisValue>0</AxisValue>
+			<Transform>
+				<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+				<Translation>0 0 0</Translation>
+				<Scale>1</Scale>
+			</Transform>
+			<BoundingBox>
+				<Min>-319.433894472406 11.337580845066 894.269235891159</Min>
+				<Max>638.074998680713 1024.58705253053 1090.89067333879</Max>
+			</BoundingBox>
+			<MateGroup />
+		</ConfigParams>
+		<Material>
+			<Diffuse>0.8 0.8 0.8 1</Diffuse>
+			<Specular>0.2 0.2 0.2 1</Specular>
+			<Shininess>100</Shininess>
+		</Material>
+		<Axis type="Fixed" method="Computed">
+			<Direction>0 0 0</Direction>
+			<Position>0 0 0</Position>
+		</Axis>
+		<Component name="Base-1" fileName="Base">
+			<ConfigParams configuration="Default" visible="True" fixed="True">
+				<AxisValue>0</AxisValue>
+				<Transform>
+					<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+					<Translation>51.9867100600008 11.337580845066 944.269235891159</Translation>
+					<Scale>1</Scale>
+				</Transform>
+				<BoundingBox>
+					<Min>1.98671006000077 11.337580845066 894.269235891159</Min>
+					<Max>101.986710060001 1011.33758084507 994.269235891159</Max>
+				</BoundingBox>
+				<MateGroup />
+			</ConfigParams>
+			<Material>
+				<Diffuse>0.8 0.8 0.8 1</Diffuse>
+				<Specular>0.2 0.2 0.2 1</Specular>
+				<Shininess>100</Shininess>
+			</Material>
+			<Axis type="None" method="ToCompute">
+				<Direction>0 0 0</Direction>
+				<Position>0 0 0</Position>
+			</Axis>
+		</Component>
+		<Component name="Mobiles^Complete-1" fileName="Mobiles^Complete">
+			<ConfigParams configuration="Default" visible="True" fixed="False">
+				<AxisValue>0</AxisValue>
+				<Transform>
+					<Rotation>0.791737453362968 -0.610861526814648 -5.41091173850359E-29 0.610861526814648 0.791737453362968 1.04819757280707E-28 -2.11901421706871E-29 -1.16042905751967E-28 1</Rotation>
+					<Translation>-576.417257790947 231.967293845992 2.22044604926047E-13</Translation>
+					<Scale>1</Scale>
+				</Transform>
+				<BoundingBox>
+					<Min>-319.433894472406 91.0885365601052 894.269235891159</Min>
+					<Max>638.074998680713 1024.58705253053 1090.89067333879</Max>
+				</BoundingBox>
+				<MateGroup />
+			</ConfigParams>
+			<Material>
+				<Diffuse>0.8 0.8 0.8 1</Diffuse>
+				<Specular>0.2 0.2 0.2 1</Specular>
+				<Shininess>100</Shininess>
+			</Material>
+			<Axis type="None" method="ToCompute">
+				<Direction>0 0 0</Direction>
+				<Position>0 0 0</Position>
+			</Axis>
+			<Component name="Arm^Mobiles_Complete-1" fileName="Arm^Mobiles_Complete">
+				<ConfigParams configuration="Default" visible="True" fixed="False">
+					<AxisValue>0</AxisValue>
+					<Transform>
+						<Rotation>0.791737453362968 -0.610861526814648 -5.41091173850359E-29 0.610861526814648 0.791737453362968 1.04819757280707E-28 -2.11901421706871E-29 -1.16042905751967E-28 1</Rotation>
+						<Translation>-576.417257790947 231.967293845992 2.22044604926047E-13</Translation>
+						<Scale>1</Scale>
+					</Transform>
+					<BoundingBox>
+						<Min>-319.433894472406 91.0885365601052 894.269235891159</Min>
+						<Max>638.074998680713 1024.58705253053 1073.0965131137</Max>
+					</BoundingBox>
+					<MateGroup />
+				</ConfigParams>
+				<Material>
+					<Diffuse>0.8 0.8 0.8 1</Diffuse>
+					<Specular>0.2 0.2 0.2 1</Specular>
+					<Shininess>100</Shininess>
+				</Material>
+				<Axis type="None" method="ToCompute">
+					<Direction>0 0 0</Direction>
+					<Position>0 0 0</Position>
+				</Axis>
+				<Component name="Ring-1" fileName="Ring">
+					<ConfigParams configuration="Default" visible="True" fixed="False">
+						<AxisValue>0</AxisValue>
+						<Transform>
+							<Rotation>0.965001178536656 0.262245544143014 -9.8567927478231E-29 -0.262245544143014 0.965001178536656 -2.14069786857988E-29 8.95042814084934E-29 4.65067594372827E-29 1</Rotation>
+							<Translation>315.278115184099 183.148891652151 1023.0965131137</Translation>
+							<Scale>1</Scale>
+						</Transform>
+						<BoundingBox>
+							<Min>218.777997330433 127.97430188175 973.096513113703</Min>
+							<Max>323.145481508389 183.148891652151 1073.0965131137</Max>
+						</BoundingBox>
+						<MateGroup />
+					</ConfigParams>
+					<Material>
+						<Diffuse>0.8 0.8 0.8 1</Diffuse>
+						<Specular>0.2 0.2 0.2 1</Specular>
+						<Shininess>100</Shininess>
+					</Material>
+					<Axis type="None" method="ToCompute">
+						<Direction>0 0 0</Direction>
+						<Position>0 0 0</Position>
+					</Axis>
+				</Component>
+				<Component name="Arm-1" fileName="Arm">
+					<ConfigParams configuration="Default" visible="True" fixed="False">
+						<AxisValue>0</AxisValue>
+						<Transform>
+							<Rotation>0.965001178536656 0.262245544143014 1.81518703464786E-28 0.262245544143014 -0.965001178536656 2.14069786857988E-29 1.80779647543879E-28 2.69447115015522E-29 -1</Rotation>
+							<Translation>38.8744328528438 1009.58763977189 1023.0965131137</Translation>
+							<Scale>1</Scale>
+						</Transform>
+						<BoundingBox>
+							<Min>24.3994151747939 137.152895926755 894.269235891159</Min>
+							<Max>289.370440259606 1013.52132293404 1038.0965131137</Max>
+						</BoundingBox>
+						<MateGroup />
+					</ConfigParams>
+					<Material>
+						<Diffuse>0.8 0.8 0.8 1</Diffuse>
+						<Specular>0.2 0.2 0.2 1</Specular>
+						<Shininess>100</Shininess>
+					</Material>
+					<Axis type="None" method="ToCompute">
+						<Direction>0 0 0</Direction>
+						<Position>0 0 0</Position>
+					</Axis>
+				</Component>
+			</Component>
+			<Component name="Ring-3" fileName="Ring">
+				<ConfigParams configuration="Default" visible="True" fixed="False">
+					<AxisValue>0</AxisValue>
+					<Transform>
+						<Rotation>0.460263170228427 0.12507960426388 -0.878927133912971 -0.262245544143014 0.965001178536656 -2.07779832842279E-16 0.848165720073862 0.230494724495067 0.476956070588824</Rotation>
+						<Translation>240.849644534965 357.303863748186 979.150156418055</Translation>
+						<Scale>1</Scale>
+					</Transform>
+					<BoundingBox>
+						<Min>152.415041508429 304.321131740945 955.302352888614</Min>
+						<Max>291.125296862948 368.828599972939 1090.89067333879</Max>
+					</BoundingBox>
+					<MateGroup />
+				</ConfigParams>
+				<Material>
+					<Diffuse>0.8 0.8 0.8 1</Diffuse>
+					<Specular>0.2 0.2 0.2 1</Specular>
+					<Shininess>100</Shininess>
+				</Material>
+				<Axis type="None" method="ToCompute">
+					<Direction>0 0 0</Direction>
+					<Position>0 0 0</Position>
+				</Axis>
+			</Component>
+		</Component>
+	</RootComponent>
+</Nomad3DXML>

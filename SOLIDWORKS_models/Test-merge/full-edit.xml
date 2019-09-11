@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Nomad3DXMLEdit>
+    <Operations>
+        <SetMaterial componentName="/full/bras-1">
+            <Diffuse>0.7019608020782471 0.10196078568696976 0.10196078568696976 1.0</Diffuse>
+            <Specular>0.7019608020782471 0.10196078568696976 0.10196078568696976 1.0</Specular>
+            <Shininess>1.0</Shininess>
+        </SetMaterial>
+        <SetMaterial componentName="/full/bras-2">
+            <Diffuse>0.7019608020782471 0.10196078568696976 0.10196078568696976 1.0</Diffuse>
+            <Specular>0.7019608020782471 0.10196078568696976 0.10196078568696976 1.0</Specular>
+            <Shininess>1.0</Shininess>
+        </SetMaterial>
+        <SetMaterial componentName="/full/ringE-1">
+            <Diffuse>0.7019608020782471 0.10196078568696976 0.10196078568696976 1.0</Diffuse>
+            <Specular>0.7019608020782471 0.10196078568696976 0.10196078568696976 1.0</Specular>
+            <Shininess>1.0</Shininess>
+        </SetMaterial>
+        <SetMaterial componentName="/full/ringE-2">
+            <Diffuse>0.7019608020782471 0.10196078568696976 0.10196078568696976 1.0</Diffuse>
+            <Specular>0.7019608020782471 0.10196078568696976 0.10196078568696976 1.0</Specular>
+            <Shininess>1.0</Shininess>
+        </SetMaterial>
+        <SetMaterial componentName="/full/support-1">
+            <Diffuse>0.7019608020782471 0.10196078568696976 0.10196078568696976 1.0</Diffuse>
+            <Specular>0.7019608020782471 0.10196078568696976 0.10196078568696976 1.0</Specular>
+            <Shininess>1.0</Shininess>
+        </SetMaterial>
+        <SetMaterial componentName="/full/bras-2">
+            <Diffuse>0.4000000059604645 0.3019607961177826 0.7019608020782471 1.0</Diffuse>
+            <Specular>0.4000000059604645 0.3019607961177826 0.7019608020782471 1.0</Specular>
+            <Shininess>1.0</Shininess>
+        </SetMaterial>
+        <SetMaterial componentName="/full/ringE-2">
+            <Diffuse>0.10196078568696976 0.3019607961177826 0.10196078568696976 1.0</Diffuse>
+            <Specular>0.10196078568696976 0.3019607961177826 0.10196078568696976 1.0</Specular>
+            <Shininess>1.0</Shininess>
+        </SetMaterial>
+        <SetMaterial componentName="/full/ringE-1">
+            <Diffuse>0.10196078568696976 0.3019607961177826 0.10196078568696976 1.0</Diffuse>
+            <Specular>0.10196078568696976 0.3019607961177826 0.10196078568696976 1.0</Specular>
+            <Shininess>1.0</Shininess>
+        </SetMaterial>
+    </Operations>
+</Nomad3DXMLEdit>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Nomad3DXML state="converted">
+    <RootComponent fileName="2Hole_Block_ASS" name="Cube">
+        <ConfigParams configuration="Default" fixed="True" visible="True">
+            <Transform>
+                <Rotation>1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0</Rotation>
+                <Translation>0.0 0.0 0.0</Translation>
+                <Scale>1.0</Scale>
+            </Transform>
+            <BoundingBox>
+                <Min>-3080.61773048969 -443.60139506233 -8100.33090957629</Min>
+                <Max>2497.37246053977 1598.09904957763 5524.66310470344</Max>
+            </BoundingBox>
+        </ConfigParams>
+        <Material>
+            <Diffuse>0.18431372940540314 1.0 0.364705890417099 1.0</Diffuse>
+            <Specular>0.09215686470270157 0.5 0.1823529452085495 0.5</Specular>
+            <Shininess>0.400000005960464</Shininess>
+        </Material>
+        <AxisGroup/>
+        <Component fileName="Cube" name="Cube-1">
+            <ConfigParams configuration="Default" fixed="False" visible="True">
+                <Transform>
+                    <Rotation>1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0</Rotation>
+                    <Translation>-848.861591778296 571.313641583837 5524.66310470344</Translation>
+                    <Scale>1.0</Scale>
+                </Transform>
+                <BoundingBox>
+                    <Min>-1098.8615917783 321.313641583837 3924.66310470344</Min>
+                    <Max>-598.861591778296 821.313641583837 5524.66310470344</Max>
+                </BoundingBox>
+            </ConfigParams>
+            <Material>
+                <Diffuse>0.18431372940540314 1.0 0.364705890417099 1.0</Diffuse>
+                <Specular>0.09215686470270157 0.5 0.1823529452085495 0.5</Specular>
+                <Shininess>0.400000005960464</Shininess>
+            </Material>
+            <AxisGroup/>
+        </Component>
+    </RootComponent>
+    <GeometriesDirectories>
+        <Directory lod="0">exported</Directory>
+        <Directory lod="1">decimated</Directory>
+        <Directory lod="2">convex_hull</Directory>
+    </GeometriesDirectories>
+</Nomad3DXML>

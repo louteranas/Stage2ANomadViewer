@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Nomad3DXML state="converted">
+    <RootComponent fileName="Complete" name="Complete" wall="False">
+        <ConfigParams configuration="Default" fixed="True" visible="True">
+            <AxisValue>0.0</AxisValue>
+            <Transform>
+                <Rotation>1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0</Rotation>
+                <Translation>0.0 0.0 0.0</Translation>
+                <Scale>1.0</Scale>
+            </Transform>
+        </ConfigParams>
+        <Material>
+            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+            <Shininess>100.0</Shininess>
+        </Material>
+        <Axis method="Computed" type="Fixed">
+            <Direction>0.0 0.0 0.0</Direction>
+            <Position>0.0 0.0 0.0</Position>
+            <MinValue>-Infinity</MinValue>
+            <MaxValue>Infinity</MaxValue>
+        </Axis>
+        <Component fileName="Base" name="Base-1" wall="False">
+            <ConfigParams configuration="Default" fixed="True" visible="True">
+                <AxisValue>0.0</AxisValue>
+                <Transform>
+                    <Rotation>1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0</Rotation>
+                    <Translation>51.9867100600008 11.337580845066 944.269235891159</Translation>
+                    <Scale>1.0</Scale>
+                </Transform>
+            </ConfigParams>
+            <Material>
+                <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                <Shininess>100.0</Shininess>
+            </Material>
+            <Axis method="Computed" type="Fixed">
+                <Direction>0.0 0.0 0.0</Direction>
+                <Position>0.0 0.0 0.0</Position>
+                <MinValue>-Infinity</MinValue>
+                <MaxValue>Infinity</MaxValue>
+            </Axis>
+        </Component>
+        <Component fileName="MobilescircumflexComplete" name="MobilescircumflexComplete-1" wall="False">
+            <ConfigParams configuration="Default" fixed="False" visible="True">
+                <AxisValue>0.0</AxisValue>
+                <Transform>
+                    <Rotation>0.791737453362968 -0.610861526814648 -5.41091173850359E-29 0.610861526814648 0.791737453362968 1.04819757280707E-28 -2.11901421706871E-29 -1.16042905751967E-28 1.0</Rotation>
+                    <Translation>-576.417257790947 231.967293845992 2.22044604926047E-13</Translation>
+                    <Scale>1.0</Scale>
+                </Transform>
+            </ConfigParams>
+            <Material>
+                <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                <Shininess>100.0</Shininess>
+            </Material>
+            <Axis method="Computed" type="Fixed">
+                <Direction>0.0 0.0 0.0</Direction>
+                <Position>0.0 0.0 0.0</Position>
+                <MinValue>-Infinity</MinValue>
+                <MaxValue>Infinity</MaxValue>
+            </Axis>
+            <Component fileName="ArmcircumflexMobiles_Complete" name="ArmcircumflexMobiles_Complete-1" wall="False">
+                <ConfigParams configuration="Default" fixed="False" visible="True">
+                    <AxisValue>0.0</AxisValue>
+                    <Transform>
+                        <Rotation>0.791737453362968 -0.610861526814648 -5.41091173850359E-29 0.610861526814648 0.791737453362968 1.04819757280707E-28 -2.11901421706871E-29 -1.16042905751967E-28 1.0</Rotation>
+                        <Translation>-576.417257790947 231.967293845992 2.22044604926047E-13</Translation>
+                        <Scale>1.0</Scale>
+                    </Transform>
+                </ConfigParams>
+                <Material>
+                    <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                    <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                    <Shininess>100.0</Shininess>
+                </Material>
+                <Axis method="Computed" type="Fixed">
+                    <Direction>0.0 0.0 0.0</Direction>
+                    <Position>0.0 0.0 0.0</Position>
+                    <MinValue>-Infinity</MinValue>
+                    <MaxValue>Infinity</MaxValue>
+                </Axis>
+                <Component fileName="Ring" name="Ring-1" wall="False">
+                    <ConfigParams configuration="Default" fixed="False" visible="True">
+                        <AxisValue>0.0</AxisValue>
+                        <Transform>
+                            <Rotation>0.965001178536656 0.262245544143014 -9.8567927478231E-29 -0.262245544143014 0.965001178536656 -2.14069786857988E-29 8.95042814084934E-29 4.65067594372827E-29 1.0</Rotation>
+                            <Translation>315.278115184099 183.148891652151 1023.0965131137</Translation>
+                            <Scale>1.0</Scale>
+                        </Transform>
+                    </ConfigParams>
+                    <Material>
+                        <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                        <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                        <Shininess>100.0</Shininess>
+                    </Material>
+                    <Axis method="Computed" type="Fixed">
+                        <Direction>0.0 0.0 0.0</Direction>
+                        <Position>0.0 0.0 0.0</Position>
+                        <MinValue>-Infinity</MinValue>
+                        <MaxValue>Infinity</MaxValue>
+                    </Axis>
+                </Component>
+                <Component fileName="Arm" name="Arm-1" wall="False">
+                    <ConfigParams configuration="Default" fixed="False" visible="True">
+                        <AxisValue>0.0</AxisValue>
+                        <Transform>
+                            <Rotation>0.965001178536656 0.262245544143014 1.81518703464786E-28 0.262245544143014 -0.965001178536656 2.14069786857988E-29 1.80779647543879E-28 2.69447115015522E-29 -1.0</Rotation>
+                            <Translation>38.8744328528438 1009.58763977189 1023.0965131137</Translation>
+                            <Scale>1.0</Scale>
+                        </Transform>
+                    </ConfigParams>
+                    <Material>
+                        <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                        <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                        <Shininess>100.0</Shininess>
+                    </Material>
+                    <Axis method="Computed" type="Fixed">
+                        <Direction>0.0 0.0 0.0</Direction>
+                        <Position>0.0 0.0 0.0</Position>
+                        <MinValue>-Infinity</MinValue>
+                        <MaxValue>Infinity</MaxValue>
+                    </Axis>
+                </Component>
+            </Component>
+            <Component fileName="Ring" name="Ring-3" wall="False">
+                <ConfigParams configuration="Default" fixed="False" visible="True">
+                    <AxisValue>0.0</AxisValue>
+                    <Transform>
+                        <Rotation>0.460263170228427 0.12507960426388 -0.878927133912971 -0.262245544143014 0.965001178536656 -2.07779832842279E-16 0.848165720073862 0.230494724495067 0.476956070588824</Rotation>
+                        <Translation>240.849644534965 357.303863748186 979.150156418055</Translation>
+                        <Scale>1.0</Scale>
+                    </Transform>
+                </ConfigParams>
+                <Material>
+                    <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                    <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                    <Shininess>100.0</Shininess>
+                </Material>
+                <Axis method="Computed" type="Fixed">
+                    <Direction>0.0 0.0 0.0</Direction>
+                    <Position>0.0 0.0 0.0</Position>
+                    <MinValue>-Infinity</MinValue>
+                    <MaxValue>Infinity</MaxValue>
+                </Axis>
+            </Component>
+        </Component>
+    </RootComponent>
+    <GeometriesDirectories>
+        <Directory lod="0">exported</Directory>
+        <Directory lod="1">decimated</Directory>
+        <Directory lod="2">convex_hull</Directory>
+    </GeometriesDirectories>
+</Nomad3DXML>

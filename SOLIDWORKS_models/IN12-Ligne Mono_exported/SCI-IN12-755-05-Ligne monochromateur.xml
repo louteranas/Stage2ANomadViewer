@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Nomad3DXML state="converted">
+    <RootComponent fileName="SCI-IN12-755-05-Ligne monochromateur" name="SCI-IN12-755-05-Ligne monochromateur" wall="False">
+        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+            <AxisValue>0.0</AxisValue>
+            <Transform>
+                <Rotation>1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0</Rotation>
+                <Translation>0.0 0.0 0.0</Translation>
+                <Scale>1.0</Scale>
+            </Transform>
+        </ConfigParams>
+        <Material>
+            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+            <Shininess>100.0</Shininess>
+        </Material>
+        <Axis method="Computed" type="Rotation">
+            <Direction>0.0 1.0 0.0</Direction>
+            <Position>44.5869835602068 280.0 -6.576541416417</Position>
+            <MinValue>-Infinity</MinValue>
+            <MaxValue>Infinity</MaxValue>
+        </Axis>
+        <Component fileName="SCI-IN12-755-Huber 411" name="SCI-IN12-755-Huber 411-1" wall="False">
+            <ConfigParams configuration="Défaut" fixed="False" visible="True">
+                <AxisValue>0.0</AxisValue>
+                <Transform>
+                    <Rotation>0.981462115719406 0.0 0.191656242808803 0.0 1.0 0.0 -0.191656242808803 0.0 0.981462115719406</Rotation>
+                    <Translation>5.17494252491953E-31 4.99999999999999 -1.40906242947279E-31</Translation>
+                    <Scale>1.0</Scale>
+                </Transform>
+            </ConfigParams>
+            <Material>
+                <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                <Shininess>100.0</Shininess>
+            </Material>
+            <Axis method="Computed" type="Fixed">
+                <Direction>0.0 0.0 0.0</Direction>
+                <Position>0.0 0.0 0.0</Position>
+                <MinValue>-Infinity</MinValue>
+                <MaxValue>Infinity</MaxValue>
+            </Axis>
+        </Component>
+        <Component fileName="SCI-IN12-755-Huber 5202.3" name="SCI-IN12-755-Huber 5202.3-1" wall="False">
+            <ConfigParams configuration="Défaut" fixed="False" visible="True">
+                <AxisValue>0.0</AxisValue>
+                <Transform>
+                    <Rotation>0.191656242808803 0.0 -0.981462115719406 0.0 1.0 0.0 0.981462115719406 0.0 0.191656242808803</Rotation>
+                    <Translation>-6.08867558533163E-14 90.0 -3.43785588750504E-14</Translation>
+                    <Scale>1.0</Scale>
+                </Transform>
+            </ConfigParams>
+            <Material>
+                <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                <Shininess>100.0</Shininess>
+            </Material>
+            <Axis method="Computed" type="Fixed">
+                <Direction>0.0 0.0 0.0</Direction>
+                <Position>0.0 0.0 0.0</Position>
+                <MinValue>-Infinity</MinValue>
+                <MaxValue>Infinity</MaxValue>
+            </Axis>
+        </Component>
+        <Component fileName="SCI-IN12-755-Huber 5101.3" name="SCI-IN12-755-Huber 5101.3-1" wall="False">
+            <ConfigParams configuration="Défaut" fixed="False" visible="True">
+                <AxisValue>0.0</AxisValue>
+                <Transform>
+                    <Rotation>-0.191656242808803 0.0 0.981462115719406 0.0 1.0 0.0 -0.981462115719406 0.0 -0.191656242808803</Rotation>
+                    <Translation>-5.56603000580946E-14 170.0 -3.74509455989872E-14</Translation>
+                    <Scale>1.0</Scale>
+                </Transform>
+            </ConfigParams>
+            <Material>
+                <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                <Shininess>100.0</Shininess>
+            </Material>
+            <Axis method="Computed" type="Fixed">
+                <Direction>0.0 0.0 0.0</Direction>
+                <Position>0.0 0.0 0.0</Position>
+                <MinValue>-Infinity</MinValue>
+                <MaxValue>Infinity</MaxValue>
+            </Axis>
+        </Component>
+    </RootComponent>
+    <GeometriesDirectories>
+        <Directory lod="0">exported</Directory>
+        <Directory lod="1">decimated</Directory>
+        <Directory lod="2">convex_hull</Directory>
+    </GeometriesDirectories>
+</Nomad3DXML>

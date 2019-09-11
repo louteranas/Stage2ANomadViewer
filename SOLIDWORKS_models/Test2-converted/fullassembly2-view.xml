@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Nomad3DXML>
+    <RootComponent fileName="fullassembly2" mergeable="True" name="fullassembly2" wall="False">
+        <ConfigParams configuration="Default" fixed="True" visible="True">
+            <Transform>
+                <Rotation>1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0</Rotation>
+                <Translation>0.0 0.0 0.0</Translation>
+                <Scale>1.0</Scale>
+            </Transform>
+            <BoundingBox>
+                <Min>-22.5175393007741 -503.583058352711 366.674711029877</Min>
+                <Max>384.528088387707 289.775339821122 1423.00407206753</Max>
+            </BoundingBox>
+        </ConfigParams>
+        <Material>
+            <Diffuse>0.7921568751335144 0.8196078538894653 0.9333333373069763 1.0</Diffuse>
+            <Specular>0.3960784375667572 0.40980392694473267 0.46666666865348816 0.5</Specular>
+            <Shininess>0.400000005960464</Shininess>
+        </Material>
+        <Axis type="None">
+            <Direction>0.0 0.0 0.0</Direction>
+            <Position>0.0 0.0 0.0</Position>
+            <ZeroValue>0.0</ZeroValue>
+        </Axis>
+        <Component fileName="ringE" mergeable="True" name="ringE-3" wall="False">
+            <ConfigParams configuration="Default" fixed="False" visible="True">
+                <Transform>
+                    <Rotation>0.590560430015943 0.718347806992797 0.367715660107131 -0.79850266437008 0.586083223708096 0.137477088570454 -0.116755614397197 -0.374810462869654 0.919720198446336</Rotation>
+                    <Translation>307.089907024706 18.1650030238252 652.026844304509</Translation>
+                    <Scale>1.0</Scale>
+                </Transform>
+                <BoundingBox>
+                    <Min>216.740784497712 -82.5894865904077 621.715279383854</Min>
+                    <Max>384.528088387707 89.2473867959508 733.844464530873</Max>
+                </BoundingBox>
+            </ConfigParams>
+            <Material>
+                <Diffuse>0.7921568751335144 0.8196078538894653 0.9333333373069763 1.0</Diffuse>
+                <Specular>0.3960784375667572 0.40980392694473267 0.46666666865348816 0.5</Specular>
+                <Shininess>0.400000005960464</Shininess>
+            </Material>
+            <Axis type="None">
+                <Direction>0.0 0.0 0.0</Direction>
+                <Position>0.0 0.0 0.0</Position>
+                <ZeroValue>0.0</ZeroValue>
+            </Axis>
+        </Component>
+        <Component fileName="support" mergeable="True" name="support-1" wall="False">
+            <ConfigParams configuration="Default" fixed="True" visible="True">
+                <Transform>
+                    <Rotation>0.973046523693611 -0.228601136203489 0.0303641771542278 0.230608895595507 0.964574850075941 -0.128120630162342 -5.20417042793042E-17 0.131669583152105 0.991293660260446</Rotation>
+                    <Translation>108.514012007911 98.4469573550459 374.598951395706</Translation>
+                    <Scale>1.0</Scale>
+                </Transform>
+                <BoundingBox>
+                    <Min>48.3312410434551 38.7881580410743 366.674711029877</Min>
+                    <Max>168.696782972367 289.775339821122 1373.81685202198</Max>
+                </BoundingBox>
+            </ConfigParams>
+            <Material>
+                <Diffuse>0.7921568751335144 0.8196078538894653 0.9333333373069763 1.0</Diffuse>
+                <Specular>0.3960784375667572 0.40980392694473267 0.46666666865348816 0.5</Specular>
+                <Shininess>0.400000005960464</Shininess>
+            </Material>
+            <Axis type="None">
+                <Direction>0.0 0.0 0.0</Direction>
+                <Position>0.0 0.0 0.0</Position>
+                <ZeroValue>0.0</ZeroValue>
+            </Axis>
+        </Component>
+        <Component fileName="tige" mergeable="True" name="tige-1" wall="False">
+            <ConfigParams configuration="Default" fixed="False" visible="True">
+                <Transform>
+                    <Rotation>-0.125175277347228 -0.634158438627267 -0.763003423753047 0.193679148771425 0.738636984752525 -0.645680874803393 0.973046523693611 -0.228601136203489 0.0303641771542278</Rotation>
+                    <Translation>157.166338192592 106.767338017687 524.811209292484</Translation>
+                    <Scale>1.0</Scale>
+                </Transform>
+                <BoundingBox>
+                    <Min>153.977793931405 54.1771906292961 510.72436630692</Min>
+                    <Max>325.772791481692 120.495292251485 544.059962394268</Max>
+                </BoundingBox>
+            </ConfigParams>
+            <Material>
+                <Diffuse>0.7921568751335144 0.8196078538894653 0.9333333373069763 1.0</Diffuse>
+                <Specular>0.3960784375667572 0.40980392694473267 0.46666666865348816 0.5</Specular>
+                <Shininess>0.400000005960464</Shininess>
+            </Material>
+            <Axis type="None">
+                <Direction>0.0 0.0 0.0</Direction>
+                <Position>0.0 0.0 0.0</Position>
+                <ZeroValue>0.0</ZeroValue>
+            </Axis>
+        </Component>
+        <Component fileName="brassanstige" mergeable="True" name="brassanstige-1" wall="False">
+            <ConfigParams configuration="Default" fixed="False" visible="True">
+                <Transform>
+                    <Rotation>-0.198868271060299 -0.898475730028314 -0.391398484048644 0.973046523693611 -0.228601136203489 0.0303641771542287 -0.116755614397198 -0.374810462869653 0.919720198446337</Rotation>
+                    <Translation>334.259808660225 105.386191150059 438.001099564069</Translation>
+                    <Scale>1.0</Scale>
+                </Transform>
+                <BoundingBox>
+                    <Min>182.34675042041 -303.236577706547 425.348219727983</Min>
+                    <Max>369.417252502843 139.198497137014 1370.37417784649</Max>
+                </BoundingBox>
+            </ConfigParams>
+            <Material>
+                <Diffuse>0.7921568751335144 0.8196078538894653 0.9333333373069763 1.0</Diffuse>
+                <Specular>0.3960784375667572 0.40980392694473267 0.46666666865348816 0.5</Specular>
+                <Shininess>0.400000005960464</Shininess>
+            </Material>
+            <Axis type="None">
+                <Direction>0.0 0.0 0.0</Direction>
+                <Position>0.0 0.0 0.0</Position>
+                <ZeroValue>0.0</ZeroValue>
+            </Axis>
+        </Component>
+        <Component fileName="tige" mergeable="True" name="tige-2" wall="False">
+            <ConfigParams configuration="Default" fixed="False" visible="True">
+                <Transform>
+                    <Rotation>0.0520933322709287 -0.0726418699375329 -0.995996708561273 0.15716070631982 0.985519253891425 -0.0636577772023457 0.986198153071666 -0.153215400470275 0.0627554295401389</Rotation>
+                    <Translation>13.905250549892 -226.004723734747 1316.95105185359</Translation>
+                    <Scale>1.0</Scale>
+                </Transform>
+                <BoundingBox>
+                    <Min>11.8127101639845 -262.632953052984 1306.35450699595</Min>
+                    <Max>183.651476957983 -215.423112496458 1338.21601973305</Max>
+                </BoundingBox>
+            </ConfigParams>
+            <Material>
+                <Diffuse>0.7921568751335144 0.8196078538894653 0.9333333373069763 1.0</Diffuse>
+                <Specular>0.3960784375667572 0.40980392694473267 0.46666666865348816 0.5</Specular>
+                <Shininess>0.400000005960464</Shininess>
+            </Material>
+            <Axis type="None">
+                <Direction>0.0 0.0 0.0</Direction>
+                <Position>0.0 0.0 0.0</Position>
+                <ZeroValue>0.0</ZeroValue>
+            </Axis>
+        </Component>
+        <Component fileName="brassanstige" mergeable="True" name="brassanstige-2" wall="False">
+            <ConfigParams configuration="Default" fixed="False" visible="True">
+                <Transform>
+                    <Rotation>-0.164472450273878 -0.950123913220864 0.264978041782291 -0.986198153071667 0.153215400470274 -0.0627554295401368 0.0190267175030283 -0.271642394674699 -0.96221016074268</Rotation>
+                    <Translation>12.0025787995922 -198.840484267278 1413.17206792786</Translation>
+                    <Scale>1.0</Scale>
+                </Transform>
+                <BoundingBox>
+                    <Min>-22.5175393007741 -503.583058352711 441.129903045505</Min>
+                    <Max>65.5494144029868 -165.740304856544 1423.00407206753</Max>
+                </BoundingBox>
+            </ConfigParams>
+            <Material>
+                <Diffuse>0.7921568751335144 0.8196078538894653 0.9333333373069763 1.0</Diffuse>
+                <Specular>0.3960784375667572 0.40980392694473267 0.46666666865348816 0.5</Specular>
+                <Shininess>0.400000005960464</Shininess>
+            </Material>
+            <Axis type="None">
+                <Direction>0.0 0.0 0.0</Direction>
+                <Position>0.0 0.0 0.0</Position>
+                <ZeroValue>0.0</ZeroValue>
+            </Axis>
+        </Component>
+        <Component fileName="ringE" mergeable="True" name="ringE-4" wall="False">
+            <ConfigParams configuration="Default" fixed="False" visible="True">
+                <Transform>
+                    <Rotation>-0.986198153071667 0.153215400470275 -0.0627554295401377 -0.117393906932033 -0.914353409783203 -0.387526144451007 -0.116755614397197 -0.374810462869653 0.919720198446337</Rotation>
+                    <Translation>224.509531126859 -246.935643947416 1302.53808610363</Translation>
+                    <Scale>1.0</Scale>
+                </Transform>
+                <BoundingBox>
+                    <Min>161.150652193522 -333.478400334804 1276.14874595956</Min>
+                    <Max>290.725054727081 -184.41366933691 1384.73819244988</Max>
+                </BoundingBox>
+            </ConfigParams>
+            <Material>
+                <Diffuse>0.7921568751335144 0.8196078538894653 0.9333333373069763 1.0</Diffuse>
+                <Specular>0.3960784375667572 0.40980392694473267 0.46666666865348816 0.5</Specular>
+                <Shininess>0.400000005960464</Shininess>
+            </Material>
+            <Axis type="None">
+                <Direction>0.0 0.0 0.0</Direction>
+                <Position>0.0 0.0 0.0</Position>
+                <ZeroValue>0.0</ZeroValue>
+            </Axis>
+        </Component>
+    </RootComponent>
+    <GeometriesDirectories>
+        <Directory lod="0">exported</Directory>
+        <Directory lod="1">decimated</Directory>
+        <Directory lod="2">convex_hull</Directory>
+    </GeometriesDirectories>
+</Nomad3DXML>

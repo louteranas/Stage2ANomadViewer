@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Nomad3DXML>
+    <RootComponent fileName="731-49-00-000 Ass Zone Thales + table + spectro secondaire" mergeable="False" name="ThALES" wall="False">
+        <ConfigParams configuration="Défaut" fixed="True" visible="True">
+            <Transform>
+                <Rotation>1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0</Rotation>
+                <Translation>0.0 0.0 0.0</Translation>
+                <Scale>1.0</Scale>
+            </Transform>
+            <BoundingBox>
+                <Min>-9937.96621996107 0.0 -5500.0</Min>
+                <Max>1878.90278208193 9854.20240095421 6984.15619089652</Max>
+            </BoundingBox>
+        </ConfigParams>
+        <Material>
+            <Diffuse>0.5823529362678528 0.5823529362678528 0.6117647290229797 0.75</Diffuse>
+            <Specular>0.38823530077934265 0.38823530077934265 0.40784314274787903 0.5</Specular>
+            <Shininess>0.3125</Shininess>
+        </Material>
+        <Axis type="None">
+            <Direction>0.0 0.0 0.0</Direction>
+            <Position>0.0 0.0 0.0</Position>
+            <ZeroValue>0.0</ZeroValue>
+        </Axis>
+        <Component fileName="" mergeable="True" name="Experimental Zone" wall="False">
+            <ConfigParams configuration="Défaut" fixed="False" visible="True">
+                <Transform>
+                    <Rotation>1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0</Rotation>
+                    <Translation>0.0 0.0 0.0</Translation>
+                    <Scale>1.0</Scale>
+                </Transform>
+                <BoundingBox>
+                    <Min>-9937.96621996107 1204.20240095422 -5500.0</Min>
+                    <Max>-162.196350528571 9854.20240095421 6984.15619089652</Max>
+                </BoundingBox>
+            </ConfigParams>
+            <Material>
+                <Diffuse>1.0 1.0 1.0 1.0</Diffuse>
+                <Specular>0.0 0.0 0.0 0.0</Specular>
+                <Shininess>250.0</Shininess>
+            </Material>
+            <Axis type="None">
+                <Direction>0.0 0.0 0.0</Direction>
+                <Position>0.0 0.0 0.0</Position>
+                <ZeroValue>0.0</ZeroValue>
+            </Axis>
+            <Component fileName="" mergeable="True" name="Floor" wall="False">
+                <ConfigParams configuration="Défaut" fixed="False" visible="True">
+                    <Transform>
+                        <Rotation>1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0</Rotation>
+                        <Translation>0.0 0.0 0.0</Translation>
+                        <Scale>1.0</Scale>
+                    </Transform>
+                    <BoundingBox>
+                        <Min>-9160.00005000001 1204.20240095422 -5500.0</Min>
+                        <Max>-1159.99995000001 1938.20242595422 5500.000025</Max>
+                    </BoundingBox>
+                </ConfigParams>
+                <Material>
+                    <Diffuse>1.0 1.0 1.0 1.0</Diffuse>
+                    <Specular>0.0 0.0 0.0 0.0</Specular>
+                    <Shininess>250.0</Shininess>
+                </Material>
+                <Axis type="None">
+                    <Direction>0.0 0.0 0.0</Direction>
+                    <Position>0.0 0.0 0.0</Position>
+                    <ZeroValue>0.0</ZeroValue>
+                </Axis>
+                <Component fileName="731-01-Sol(Phase 2)" mergeable="True" name="731-01-Sol(Phase 2)-1" wall="False">
+                    <ConfigParams configuration="Défaut" fixed="True" visible="True">
+                        <Transform>
+                            <Rotation>1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0</Rotation>
+                            <Translation>-5160.00000000001 1204.20240095422 1.6518974034261E-12</Translation>
+                            <Scale>1.0</Scale>
+                        </Transform>
+                        <BoundingBox>
+                            <Min>-9160.00005000001 1204.20240095422 -5500.0</Min>
+                            <Max>-1159.99995000001 1938.20242595422 5500.000025</Max>
+                        </BoundingBox>
+                    </ConfigParams>
+                    <Material>
+                        <Diffuse>0.7960784435272217 0.8235294222831726 0.9372549057006836 1.0</Diffuse>
+                        <Specular>0.7562745213508606 0.7823529243469238 0.8903921842575073 0.949999988079071</Specular>
+                        <Shininess>0.55</Shininess>
+                    </Material>
+                    <Axis type="None">
+                        <Direction>0.0 0.0 0.0</Direction>
+                        <Position>0.0 0.0 0.0</Position>
+                        <ZeroValue>0.0</ZeroValue>
+                    </Axis>
+                </Component>
+            </Component>
+        </Component>
+    </RootComponent>
+    <GeometriesDirectories>
+        <Directory lod="0">exported</Directory>
+        <Directory lod="1">decimated</Directory>
+        <Directory lod="2">convex_hull</Directory>
+    </GeometriesDirectories>
+</Nomad3DXML>

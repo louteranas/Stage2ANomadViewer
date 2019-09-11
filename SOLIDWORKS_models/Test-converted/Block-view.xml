@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Nomad3DXML>
+    <RootComponent fileName="" mergeable="True" name="Block" wall="False">
+        <ConfigParams configuration="" fixed="False" visible="True">
+            <Transform>
+                <Rotation>1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0</Rotation>
+                <Translation>0.0 0.0 0.0</Translation>
+                <Scale>1.0</Scale>
+            </Transform>
+            <BoundingBox>
+                <Min>-490.103711000682 422.227476798169 866.8094483561</Min>
+                <Max>480.989295324593 895.917808008191 1493.07725163205</Max>
+            </BoundingBox>
+        </ConfigParams>
+        <Material>
+            <Diffuse>1.0 1.0 1.0 1.0</Diffuse>
+            <Specular>0.0 0.0 0.0 0.0</Specular>
+            <Shininess>250.0</Shininess>
+        </Material>
+        <Axis type="None">
+            <Direction>0.0 0.0 0.0</Direction>
+            <Position>0.0 0.0 0.0</Position>
+            <ZeroValue>0.0</ZeroValue>
+        </Axis>
+        <Component fileName="ringE" mergeable="True" name="ringE-1" wall="False">
+            <ConfigParams configuration="Default" fixed="False" visible="True">
+                <Transform>
+                    <Rotation>-0.516472899829119 0.658074560519988 -0.547899275906188 -0.844491654193992 -0.285529097560047 0.453108133278626 0.141737749872067 0.696714437372278 0.703206515198938</Rotation>
+                    <Translation>366.443812960888 634.311629921444 1083.38077401507</Translation>
+                    <Scale>1.0</Scale>
+                </Transform>
+                <BoundingBox>
+                    <Min>289.950668717792 577.695410436642 1028.79932222304</Min>
+                    <Max>456.605951194598 726.149970043383 1185.6336094781</Max>
+                </BoundingBox>
+            </ConfigParams>
+            <Material>
+                <Diffuse>0.6000000238418579 0.800000011920929 0.6000000238418579 1.0</Diffuse>
+                <Specular>0.6000000238418579 0.800000011920929 0.6000000238418579 1.0</Specular>
+                <Shininess>100.0</Shininess>
+            </Material>
+            <Axis type="None">
+                <Direction>0.0 0.0 0.0</Direction>
+                <Position>0.0 0.0 0.0</Position>
+                <ZeroValue>0.0</ZeroValue>
+            </Axis>
+        </Component>
+        <Component fileName="bras" mergeable="True" name="bras-2" wall="False">
+            <ConfigParams configuration="Default" fixed="False" visible="True">
+                <Transform>
+                    <Rotation>-0.147934759810535 -0.698792203886394 -0.699860530839821 0.516472899829119 -0.658074560519986 0.54789927590619 -0.843428153775946 -0.280405650057241 0.458259337967134</Rotation>
+                    <Translation>373.256672564453 855.211805075999 904.24224255848</Translation>
+                    <Scale>1.0</Scale>
+                </Transform>
+                <BoundingBox>
+                    <Min>-490.103711000682 422.227476798169 866.8094483561</Min>
+                    <Max>480.989295324593 895.917808008191 1493.07725163205</Max>
+                </BoundingBox>
+            </ConfigParams>
+            <Material>
+                <Diffuse>0.501960813999176 0.4000000059604645 0.800000011920929 1.0</Diffuse>
+                <Specular>0.501960813999176 0.4000000059604645 0.800000011920929 1.0</Specular>
+                <Shininess>100.0</Shininess>
+            </Material>
+            <Axis type="None">
+                <Direction>0.0 0.0 0.0</Direction>
+                <Position>0.0 0.0 0.0</Position>
+                <ZeroValue>0.0</ZeroValue>
+            </Axis>
+        </Component>
+    </RootComponent>
+    <GeometriesDirectories>
+        <Directory lod="0">exported</Directory>
+        <Directory lod="1">decimated</Directory>
+        <Directory lod="2">convex_hull</Directory>
+    </GeometriesDirectories>
+</Nomad3DXML>

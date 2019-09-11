@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Nomad3DXML state="exported">
+	<RootComponent name="Simple1" fileName="Simple1">
+		<ConfigParams configuration="Default" visible="True" fixed="True">
+			<AxisValue>0</AxisValue>
+			<Transform>
+				<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+				<Translation>0 0 0</Translation>
+				<Scale>1</Scale>
+			</Transform>
+			<BoundingBox>
+				<Min>-58.6317197886841 -21.5667164577589 87.9769024162234</Min>
+				<Max>71.0058411718734 96.4472367065165 137.976902416223</Max>
+			</BoundingBox>
+			<MateGroup>
+				<Mate name="Concentric11" type="Concentric" alignment="AntiAligned" min="0" max="0" flipped="False">
+					<Entity type="Cylinder">
+						<ComponentPath>Simple1/CylBase-3</ComponentPath>
+						<Position>-33.6317197886841 88.4332835422411 112.976902416223</Position>
+						<Axis>0 -1 0</Axis>
+						<Radius>0.0025 0</Radius>
+					</Entity>
+					<Entity type="Cylinder">
+						<ComponentPath>Simple1/Arms-2/FixArm-3</ComponentPath>
+						<Position>-33.6317197886841 88.4332835422411 112.976902416223</Position>
+						<Axis>0 1 0</Axis>
+						<Radius>0.0025 0</Radius>
+					</Entity>
+				</Mate>
+				<Mate name="Coincident8" type="Coincident" alignment="AntiAligned" min="0" max="0" flipped="False">
+					<Entity type="Plane">
+						<ComponentPath>Simple1/CylBase-3</ComponentPath>
+						<Position>-33.6317197886841 78.4332835422411 112.976902416223</Position>
+						<Axis>0 1 0</Axis>
+						<Radius>0 0</Radius>
+					</Entity>
+					<Entity type="Plane">
+						<ComponentPath>Simple1/Arms-2/FixArm-3</ComponentPath>
+						<Position>-43.6317197886841 78.4332835422411 117.976902416223</Position>
+						<Axis>0 -1 0</Axis>
+						<Radius>0 0</Radius>
+					</Entity>
+				</Mate>
+			</MateGroup>
+		</ConfigParams>
+		<Material>
+			<Diffuse>0.8 0.8 0.8 1</Diffuse>
+			<Specular>0.2 0.2 0.2 1</Specular>
+			<Shininess>100</Shininess>
+		</Material>
+		<Axis type="Fixed" method="Computed">
+			<Direction>0 0 0</Direction>
+			<Position>0 0 0</Position>
+		</Axis>
+		<Component name="CylBase-3" fileName="CylBase">
+			<ConfigParams configuration="Default" visible="True" fixed="True">
+				<AxisValue>0</AxisValue>
+				<Transform>
+					<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+					<Translation>-33.6317197886841 -21.5667164577589 112.976902416223</Translation>
+					<Scale>1</Scale>
+				</Transform>
+				<BoundingBox>
+					<Min>-58.6317197886841 -21.5667164577589 87.9769024162234</Min>
+					<Max>-8.63171978868407 88.4332835422411 137.976902416223</Max>
+				</BoundingBox>
+				<MateGroup />
+			</ConfigParams>
+			<Material>
+				<Diffuse>1 0 0 0</Diffuse>
+				<Specular>0.5 0 0 0</Specular>
+				<Shininess>0.400000005960464</Shininess>
+			</Material>
+			<Axis type="None" method="ToCompute">
+				<Direction>0 0 0</Direction>
+				<Position>0 0 0</Position>
+			</Axis>
+		</Component>
+		<Component name="Arms-2" fileName="Arms">
+			<ConfigParams configuration="Default" visible="True" fixed="False">
+				<AxisValue>0</AxisValue>
+				<Transform>
+					<Rotation>0.997210243456737 0.0746440241744504 0 -0.0746440241744504 0.997210243456737 0 0 0 1</Rotation>
+					<Translation>6.35715224680068 -3.22835648033377 0</Translation>
+					<Scale>1</Scale>
+				</Transform>
+				<BoundingBox>
+					<Min>-44.37607764388 -12.8181641707045 97.9769024162233</Min>
+					<Max>71.0058411718734 96.4472367065165 117.976902416223</Max>
+				</BoundingBox>
+				<MateGroup>
+					<Mate name="Concentric8" type="Concentric" alignment="AntiAligned" min="0" max="0" flipped="False">
+						<Entity type="Cylinder">
+							<ComponentPath>Arms-2/FixArm-3</ComponentPath>
+							<Position>46.3682802113155 83.4332835422417 117.976902416223</Position>
+							<Axis>0 0 1</Axis>
+							<Radius>0.0025 0</Radius>
+						</Entity>
+						<Entity type="Cylinder">
+							<ComponentPath>Arms-2/Mobiles^Arms-1/MobArm-1</ComponentPath>
+							<Position>46.3682802113155 83.4332835422418 117.976902416223</Position>
+							<Axis>0 0 -1</Axis>
+							<Radius>0.0025 0</Radius>
+						</Entity>
+					</Mate>
+					<Mate name="Coincident5" type="Coincident" alignment="AntiAligned" min="0" max="0" flipped="False">
+						<Entity type="Plane">
+							<ComponentPath>Arms-2/FixArm-3</ComponentPath>
+							<Position>-43.0074215789186 95.1372969352259 107.976902416223</Position>
+							<Axis>0 0 -1</Axis>
+							<Radius>0 0</Radius>
+						</Entity>
+						<Entity type="Plane">
+							<ComponentPath>Arms-2/Mobiles^Arms-1/MobArm-1</ComponentPath>
+							<Position>39.9722195834202 92.6033657907436 107.976902416223</Position>
+							<Axis>0 0 1</Axis>
+							<Radius>0 0</Radius>
+						</Entity>
+					</Mate>
+				</MateGroup>
+			</ConfigParams>
+			<Material>
+				<Diffuse>0.8 0.8 0.8 1</Diffuse>
+				<Specular>0.2 0.2 0.2 1</Specular>
+				<Shininess>100</Shininess>
+			</Material>
+			<Axis type="None" method="ToCompute">
+				<Direction>0 0 0</Direction>
+				<Position>0 0 0</Position>
+			</Axis>
+			<Component name="FixArm-3" fileName="FixArm">
+				<ConfigParams configuration="Default" visible="True" fixed="False">
+					<AxisValue>0</AxisValue>
+					<Transform>
+						<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+						<Translation>-43.6317197886841 78.4332835422411 117.976902416223</Translation>
+						<Scale>1</Scale>
+					</Transform>
+					<BoundingBox>
+						<Min>-43.6317197886841 78.4332835422411 107.976902416223</Min>
+						<Max>56.3682802113159 88.4332835422411 117.976902416223</Max>
+					</BoundingBox>
+					<MateGroup />
+				</ConfigParams>
+				<Material>
+					<Diffuse>0.8 0.8 0.8 1</Diffuse>
+					<Specular>0.2 0.2 0.2 1</Specular>
+					<Shininess>100</Shininess>
+				</Material>
+				<Axis type="None" method="ToCompute">
+					<Direction>0 0 0</Direction>
+					<Position>0 0 0</Position>
+				</Axis>
+			</Component>
+			<Component name="Mobiles^Arms-1" fileName="Mobiles^Arms">
+				<ConfigParams configuration="Default" visible="True" fixed="False">
+					<AxisValue>0</AxisValue>
+					<Transform>
+						<Rotation>0.997210243456737 0.0746440241744504 0 -0.0746440241744504 0.997210243456737 0 0 0 1</Rotation>
+						<Translation>6.35715224680068 -3.22835648033377 0</Translation>
+						<Scale>1</Scale>
+					</Transform>
+					<BoundingBox>
+						<Min>39.1974257674812 -6.56851252634613 97.9769024162233</Min>
+						<Max>71.0058411718734 95.3651483731319 117.976902416223</Max>
+					</BoundingBox>
+					<MateGroup />
+				</ConfigParams>
+				<Material>
+					<Diffuse>0.8 0.8 0.8 1</Diffuse>
+					<Specular>0.2 0.2 0.2 1</Specular>
+					<Shininess>100</Shininess>
+				</Material>
+				<Axis type="None" method="ToCompute">
+					<Direction>0 0 0</Direction>
+					<Position>0 0 0</Position>
+				</Axis>
+				<Component name="MobArm-1" fileName="MobArm">
+					<ConfigParams configuration="Default" visible="True" fixed="False">
+						<AxisValue>0</AxisValue>
+						<Transform>
+							<Rotation>0.218333831459034 -0.975874140471208 0 0 0 1 -0.975874140471208 -0.218333831459034 0</Rotation>
+							<Translation>39.3055711943696 92.1003557896581 97.9769024162233</Translation>
+							<Scale>1</Scale>
+						</Transform>
+						<BoundingBox>
+							<Min>39.3055711943696 -5.48705825746267 97.9769024162233</Min>
+							<Max>70.897695744985 94.2836941042484 117.976902416223</Max>
+						</BoundingBox>
+						<MateGroup />
+					</ConfigParams>
+					<Material>
+						<Diffuse>0.8 0.8 0.8 1</Diffuse>
+						<Specular>0.2 0.2 0.2 1</Specular>
+						<Shininess>100</Shininess>
+					</Material>
+					<Axis type="None" method="ToCompute">
+						<Direction>0 0 0</Direction>
+						<Position>0 0 0</Position>
+					</Axis>
+				</Component>
+			</Component>
+		</Component>
+	</RootComponent>
+</Nomad3DXML>

@@ -1,0 +1,132 @@
+{
+  "name": "nomad-3d-viewer",
+  "localEndpoint": "tcp://gamma3d:7000",
+  "nomadEndpoint": "tcp://gamma3d:7000",
+  "modelPath": "/users/ics/nomad3d/SOLIDWORKS_models/CollisionGame/Blocks-view.xml",
+  "instrumentPosition": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "frameTimeOut": 0,
+  "collisionMargin": 0.02,
+  "positioningCorrection": false,
+  "minDeltaTime": 100,
+  "numberOfLights": 2,
+  "lightsPos": [
+    [
+      -24,
+      103.29984698555612,
+      119.86838718726591
+    ],
+    [
+      -27.37904273185405,
+      11.878083814222244,
+      28.245758749650342
+    ]
+  ],
+  "lightsParams": [
+    {
+      "Color": 16777215,
+      "Intensity": 1,
+      "Reach": 225,
+      "Visible": true
+    },
+    {
+      "Color": 16777215,
+      "Intensity": 1,
+      "Reach": 165,
+      "Visible": true
+    }
+  ],
+  "ambientLight": 0.36,
+  "objects": [
+    {
+      "name": "Cylinder",
+      "dirPath": "/users/ics/nomad3d/SOLIDWORKS_models/CollisionGame/",
+      "modelName": "Cylinder-view.xml",
+      "visible": true,
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "transformationElements": [
+        0.9015338096830656,
+        0,
+        0.4327086664238853,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -0.4327086664238853,
+        0,
+        0.9015338096830656,
+        0,
+        108.35062353778183,
+        0.3608392229571331,
+        34.27669339987717,
+        1
+      ]
+    },
+    {
+      "name": "Triangle",
+      "dirPath": "/users/ics/nomad3d/SOLIDWORKS_models/CollisionGame/",
+      "modelName": "Triangle-view.xml",
+      "visible": true,
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "transformationElements": [
+        0.8219458750200739,
+        -0.2747128316396202,
+        -0.4989367080803203,
+        0,
+        0.46999067932704514,
+        -0.16769839724199453,
+        0.866594489313294,
+        0,
+        -0.3217355123128121,
+        -0.9467893681780587,
+        -0.008726535498373876,
+        0,
+        101.66741362472003,
+        9.04413523750074,
+        54.73398067390414,
+        1
+      ]
+    },
+    {
+      "name": "Cube",
+      "dirPath": "/users/ics/nomad3d/SOLIDWORKS_models/CollisionGame/",
+      "modelName": "Cube-view.xml",
+      "visible": true,
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "transformationElements": [
+        0.936481447682654,
+        0,
+        -0.35071711983620124,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0.35071711983620124,
+        0,
+        0.936481447682654,
+        0,
+        172.3428258548853,
+        27.078242997811326,
+        83.10223957372935,
+        1
+      ]
+    }
+  ]
+}

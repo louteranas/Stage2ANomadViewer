@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Nomad3DXML state="converted">
+    <RootComponent fileName="full" name="full">
+        <ConfigParams configuration="" fixed="True" visible="True">
+            <Transform>
+                <Rotation>1.0 0.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0</Rotation>
+                <Translation>0.0 0.0 0.0</Translation>
+                <Scale>1.0</Scale>
+            </Transform>
+            <BoundingBox>
+                <Min>-490.103711000682 -47.856442441802 366.674711029877</Min>
+                <Max>480.989295324593 895.917808008191 1493.07725163205</Max>
+            </BoundingBox>
+        </ConfigParams>
+        <Material>
+            <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+            <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+            <Shininess>100.0</Shininess>
+        </Material>
+        <AxisGroup>
+            <Axis name="pivot" type="Reference">
+                <Direction>-152.94268536069 -751.792497605314 -758.797800125468</Direction>
+                <Position>380.550545697523 703.653526280293 1153.36880739027</Position>
+            </Axis>
+            <Axis name="rotation" type="Reference">
+                <Direction>150.986675811127 -35.4718143496288 4.71157962196332</Direction>
+                <Position>68.2042058761917 127.667514968546 522.035122147728</Position>
+            </Axis>
+            <Axis name="rotation2" type="Reference">
+                <Direction>-17.1015349251991 21.7902722172665 -18.1421302172894</Direction>
+                <Position>314.089463480781 727.339375500522 1044.42609265513</Position>
+            </Axis>
+            <Axis name="reference" type="Reference">
+                <Direction>4.2632564145606E-14 -131.669583152105 -991.293660260445</Direction>
+                <Position>71.3921306030059 289.775339821122 1357.96837129032</Position>
+            </Axis>
+            <Axis name="pivot2" type="Reference">
+                <Direction>507.861910599857 168.84348541547 -275.93632236284</Direction>
+                <Position>-302.388359623448 630.587237339644 1271.34007272347</Position>
+            </Axis>
+        </AxisGroup>
+        <Component fileName="bras" name="bras-1">
+            <ConfigParams configuration="Test" fixed="False" visible="True">
+                <Transform>
+                    <Rotation>0.181908968962454 0.679948904906467 -0.710336971955926 -0.973046523693611 0.22860113620349 -0.0303641771542286 0.141737749872067 0.696714437372278 0.703206515198937</Rotation>
+                    <Translation>233.210328081144 -20.5999412085033 422.366649728064</Translation>
+                    <Scale>1.0</Scale>
+                </Transform>
+                <BoundingBox>
+                    <Min>33.143754273548 -47.856442441802 394.983705138541</Min>
+                    <Max>409.596742732893 742.233190551667 1147.79419940031</Max>
+                </BoundingBox>
+            </ConfigParams>
+            <Material>
+                <Diffuse>0.7921568751335144 0.8196078538894653 0.9333333373069763 0.75</Diffuse>
+                <Specular>0.3960784375667572 0.40980392694473267 0.46666666865348816 0.375</Specular>
+                <Shininess>0.400000005960464</Shininess>
+            </Material>
+            <AxisGroup/>
+        </Component>
+        <Component fileName="ringE" name="ringE-1">
+            <ConfigParams configuration="Default" fixed="False" visible="True">
+                <Transform>
+                    <Rotation>-0.516472899829119 0.658074560519988 -0.547899275906188 -0.844491654193992 -0.285529097560047 0.453108133278626 0.141737749872067 0.696714437372278 0.703206515198938</Rotation>
+                    <Translation>366.443812960888 634.311629921444 1083.38077401507</Translation>
+                    <Scale>1.0</Scale>
+                </Transform>
+                <BoundingBox>
+                    <Min>289.950668717792 577.695410436642 1028.79932222304</Min>
+                    <Max>456.605951194598 726.149970043383 1185.6336094781</Max>
+                </BoundingBox>
+            </ConfigParams>
+            <Material>
+                <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                <Shininess>100.0</Shininess>
+            </Material>
+            <AxisGroup/>
+        </Component>
+        <Component fileName="support" name="support-1">
+            <ConfigParams configuration="Default" fixed="True" visible="True">
+                <Transform>
+                    <Rotation>0.973046523693611 -0.228601136203489 0.0303641771542278 0.230608895595507 0.964574850075941 -0.128120630162342 -5.20417042793042E-17 0.131669583152105 0.991293660260446</Rotation>
+                    <Translation>108.514012007911 98.4469573550459 374.598951395706</Translation>
+                    <Scale>1.0</Scale>
+                </Transform>
+                <BoundingBox>
+                    <Min>48.3312410434551 38.7881580410743 366.674711029877</Min>
+                    <Max>168.696782972367 289.775339821122 1373.81685202198</Max>
+                </BoundingBox>
+            </ConfigParams>
+            <Material>
+                <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                <Shininess>100.0</Shininess>
+            </Material>
+            <AxisGroup/>
+        </Component>
+        <Component fileName="ringE" name="ringE-2">
+            <ConfigParams configuration="Default" fixed="False" visible="True">
+                <Transform>
+                    <Rotation>0.319868970325108 0.640034604136475 -0.698598273209304 -0.936800006449807 0.32395169125179 -0.132140265062344 0.141737749872068 0.696714437372279 0.703206515198936</Rotation>
+                    <Translation>323.922487999268 425.297298709757 872.418819455391</Translation>
+                    <Scale>1.0</Scale>
+                </Transform>
+                <BoundingBox>
+                    <Min>248.522349392773 367.458120986461 829.560489891185</Min>
+                    <Max>404.628201894836 518.538996634025 964.455522663626</Max>
+                </BoundingBox>
+            </ConfigParams>
+            <Material>
+                <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                <Shininess>100.0</Shininess>
+            </Material>
+            <AxisGroup/>
+        </Component>
+        <Component fileName="bras" name="bras-2">
+            <ConfigParams configuration="Default" fixed="False" visible="True">
+                <Transform>
+                    <Rotation>-0.147934759810535 -0.698792203886394 -0.699860530839821 0.516472899829119 -0.658074560519986 0.54789927590619 -0.843428153775946 -0.280405650057241 0.458259337967134</Rotation>
+                    <Translation>373.256672564453 855.211805075999 904.24224255848</Translation>
+                    <Scale>1.0</Scale>
+                </Transform>
+                <BoundingBox>
+                    <Min>-490.103711000682 422.227476798169 866.8094483561</Min>
+                    <Max>480.989295324593 895.917808008191 1493.07725163205</Max>
+                </BoundingBox>
+            </ConfigParams>
+            <Material>
+                <Diffuse>0.800000011920929 0.800000011920929 0.800000011920929 1.0</Diffuse>
+                <Specular>0.20000000298023224 0.20000000298023224 0.20000000298023224 1.0</Specular>
+                <Shininess>100.0</Shininess>
+            </Material>
+            <AxisGroup/>
+        </Component>
+    </RootComponent>
+    <GeometriesDirectories>
+        <Directory lod="0">exported</Directory>
+        <Directory lod="1">decimated</Directory>
+        <Directory lod="2">convex_hull</Directory>
+    </GeometriesDirectories>
+</Nomad3DXML>
